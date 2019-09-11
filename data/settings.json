@@ -40,7 +40,7 @@
       "description": "One More Round of Cross Asia-rd Communication",
       "background": {
         "color": "#673ab7",
-        "image": "/images/backgrounds/home.jpg"
+        "image": "/images/backgrounds/home.png"
       },
       "fontColor": "#FFF"
     },
@@ -91,6 +91,11 @@
         "color": "#fff"
       },
       "fontColor": "#424242"
+    },
+    "location": {
+      "title": "Location",
+      "metaDescription": "台灣新北市新店區北新路三段 223 號 2 樓 (台北矽谷國際會議中心) ",
+      "description": "Taipei Innovation City Convention Center is located near the MRT Dapinglin Station (G04)"
     }
   },
   "location": {

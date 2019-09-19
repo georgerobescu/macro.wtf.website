@@ -1,0 +1,133 @@
+{
+  "adrian_manning": {
+    "order": 1,
+    "featured": false,
+    "company": "Sigma Prime",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/adrian_manning.jpg",
+    "name": "Adrian Manning",
+    "title": "Co-founder",
+    "photo": "/images/people/adrian_manning.jpg"
+  },
+  "alexander_praetorius": {
+    "title": "Co-founder",
+    "photo": "/images/people/alexander_praetorius.png",
+    "order": 2,
+    "company": "Wizard Amigos & Play Project",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/alexander_praetorius.png",
+    "name": "Alexander Praetorius"
+  },
+  "dankrad_feist": {
+    "order": 2.5,
+    "company": "Ethereum Foundation",
+    "title": "Researcher",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/dankrad_feist.jpg",
+    "name": "Dankrad Feist"
+  },
+  "danny_ryan": {
+    "name": "Danny Ryan",
+    "featured": false,
+    "company": "Ethereum Foundation",
+    "title": "Researcher",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/placeholder.png"
+  },
+  "han_verstraete": {
+    "company": "Otonomos.com",
+    "title": "CEO",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/han.jpg",
+    "name": "Han Verstraete",
+    "order": 4
+  },
+  "hsiao-wei_wang": {
+    "order": 5,
+    "company": "Ethereum Foundation",
+    "title": "Researcher",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/hsiao-wei_wang.jpg",
+    "name": "Hsiao-Wei Wang"
+  },
+  "hydai": {
+    "name": "Hydai",
+    "order": 6,
+    "company": "Second State",
+    "title": "VP of engineering",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/hydai.jpg"
+  },
+  "kung_chen": {
+    "name": "Kung Chen",
+    "order": 7,
+    "company": "National Chengchi University",
+    "title": "Professor",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/kung_chen.png"
+  },
+  "larry_salibra": {
+    "title": "Core Developer",
+    "photo": "/images/people/larry.png",
+    "order": 8,
+    "company": "Blockstack",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/larry.png",
+    "name": "Larry Salibra"
+  },
+  "liam_horne": {
+    "company": "L4 Ventures & ETHGlobal",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/liam_horne.png",
+    "name": "Liam Horne",
+    "title": "Co-founder",
+    "photo": "/images/people/liam_horne.png",
+    "order": 9,
+    "featured": true
+  },
+  "luis_cuende": {
+    "company": "Aragon",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/luis_cuende.jpg",
+    "name": "Luis Cuende",
+    "title": "CEO",
+    "order": 10,
+    "featured": true
+  },
+  "nina_breznik": {
+    "name": "Nina Breznik",
+    "title": "Co-founder",
+    "photo": "/images/people/nina_breznik.jpg",
+    "order": 11,
+    "company": "Wizard Amigos & Play Project",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/nina_breznik.jpg"
+  },
+  "ping_chen": {
+    "company": "Pelith",
+    "title": "Founder",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/ping_chen.jpg",
+    "name": "Ping Chen",
+    "order": 12
+  },
+  "po-chun_kuo": {
+    "company": "Byzantine Lab",
+    "title": "Chief Scientist",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/po-chun_kuo.png",
+    "name": "Po-Chun Kuo",
+    "order": 12.5
+  },
+  "raul_kripalani": {
+    "order": 13,
+    "featured": true,
+    "company": "Protocol Labs",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/raul_kripalani.jpg",
+    "name": "Raúl Kripalani",
+    "title": "libp2p Tech Lead",
+    "photo": "/images/people/raul_kripalani.jpg"
+  },
+  "tung-wei_kuo": {
+    "order": 14,
+    "company": "National Chengchi University",
+    "title": "Assistant Professor",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/tung-wei_kuo.jpg",
+    "name": "Tung-Wei Kuo"
+  },
+  "vitalik_buterin": {
+    "company": "Ethereum Foundation",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/vitalik_buterin.jpg",
+    "name": "Vitalik Buterin",
+    "title": "Chief Scientist",
+    "photo": "/images/people/vitalik_buterin.jpg",
+    "order": 15,
+    "featured": true
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "101": {
+    "expand": "1",
+    "title": "Registration ",
+    "description": "Get your badge, coffee, enjoy talking with tech edicts around"
+  },
+  "102": {
+    "expand": "1",
+    "title": "Opening",
+    "description": "Opening"
+  },
+  "103": {
+    "icon": "coffee-break",
+    "title": "Break",
+    "description": "20 min"
+  },
+  "104": {
+    "icon": "coffee-break",
+    "title": "Break",
+    "description": "10 min"
+  },
+  "105": {
+    "icon": "lunch",
+    "title": "Lunch"
+  },
+  "106": {
+    "title": "Photo Time"
+  },
+  "201": {
+    "language": "English",
+    "speakers": [
+      "vitalik_buterin"
+    ]
+  },
+  "202": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "albert_ni"
+    ],
+    "title": "Ethereum Foundation Grants Ceremony"
+  },
+  "203": {
+    "language": "English",
+    "speakers": [
+      "phini_yang"
+    ],
+    "title": "Closing Ceremony"
+  },
+  "204": {
+    "language": "English",
+    "speakers": [
+      "alice_chang"
+    ],
+    "title": "Welcome speech"
+  },
+  "301": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "danny_ryan"
+    ],
+    "title": "Ethereum 2.0"
+  },
+  "302": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "ping_chen"
+    ]
+  },
+  "303": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "han_verstraete"
+    ],
+    "title": "The tangent of code and law: Spin up legal containers on blockchain in 1 second for 1 dollar (DAI)"
+  },
+  "304": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "tim_hsu"
+    ],
+    "title": "Private key security and protection"
+  },
+  "305": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "luis_cuende"
+    ],
+    "title": "Using DAOs to fundraise for your project"
+  },
+  "306": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "liam_horne"
+    ],
+    "title": "A secure state channels framework for Ethereum"
+  },
+  "307": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "hydai"
+    ],
+    "title": "eWASM VM - The next generation Ethereum Virtual Machine"
+  },
+  "308": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "hankuan_yu",
+      "hank_chiu"
+    ],
+    "title": "Own your private keys and privacy"
+  },
+  "309": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "yuriko_nishijima"
+    ],
+    "title": "How to Build Generalized Applications on Layer 2"
+  },
+  "310": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "raul_kripalani"
+    ],
+    "title": "libp2p: Modular peer-to-peer networking stack"
+  },
+  "311": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "adrian_manning"
+    ],
+    "title": "Ethereum 2.0 Client Lighthouse"
+  },
+  "312": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "raul_kripalani"
+    ],
+    "title": "libp2p: Modular peer-to-peer networking stack"
+  },
+  "313": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "adrian_manning"
+    ],
+    "title": "Ethereum 2.0 Client Lighthouse"
+  },
+  "314": {
+    "complexity": "Beginner",
+    "language": "English",
+    "title": "AMIS"
+  },
+  "315": {
+    "complexity": "Beginner",
+    "language": "English",
+    "title": "Monolith"
+  },
+  "316": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "philipp_seifert"
+    ],
+    "title": "imToken"
+  },
+  "317": {
+    "complexity": "Beginner",
+    "language": "English",
+    "title": "BitoEX"
+  },
+  "401": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "chih-cheng_liang"
+    ],
+    "title": "Panel"
+  },
+  "402": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "hsiao-wei_wang"
+    ],
+    "title": "The future of Ethereum"
+  },
+  "501": {
+    "title": "Sponsor session"
+  },
+  "502": {
+    "title": "Sponsor session"
+  },
+  "601": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "larry_salibra"
+    ],
+    "title": "Building apps that can't be evil"
+  },
+  "602": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "kung_chen"
+    ],
+    "title": "Ethereum PoA consortium chain to support inter-hospital data sharing"
+  },
+  "603": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "tung-wei_kuo"
+    ],
+    "title": "New BFT consensus algorithm in geth"
+  },
+  "604": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "po-chun_kuo"
+    ],
+    "title": "VDFs Workshop: Introduction to VDFs"
+  },
+  "605": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "dankrad_feist"
+    ],
+    "title": "VDFs Workshop: VDFs Applications"
+  },
+  "606": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "chang-wu_chen"
+    ],
+    "title": "VDFs Workshop: Discussion"
+  },
+  "607": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "alexander_praetorius",
+      "nina_breznik"
+    ],
+    "title": "ABC of writing Ethereum smart contracts"
+  },
+  "608": {
+    "complexity": "Beginner",
+    "language": "English",
+    "speakers": [
+      "luis_cuende"
+    ],
+    "title": "How to create a custom DAO"
+  }
+}

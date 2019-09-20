@@ -14,6 +14,8 @@ def generate_session(row, items_key, extend_key):
     extend = row[extend_key]
     if items != '':
         session["items"] = [int(item) for item in items.split(",")]
+    else:
+        return None
     if extend != '':
         session["extend"] = int(extend)
     return session
@@ -31,11 +33,13 @@ with open("schedule.csv") as f:
             continue
         shard_1_session = generate_session(row, "shard 1", "shard1_extend")
         shard_2_session =  generate_session(row, "shard 2", "shard2_extend")
-        
+        sessions = [shard_1_session]
+        if shard_2_session is not None:
+            sessions.append(shard_2_session)
         doc = {
             "startTime": row["startTime"],
             "endTime": row["endTime"],
-            "sessions": [shard_1_session, shard_2_session]
+            "sessions": sessions,
         }
         timeslots.append(doc)
 

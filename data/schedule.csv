@@ -12,7 +12,7 @@ shard 1,shard1_extend,shard 2,shard2_extend,startTime,endTime,speakers,title,len
 314,,,,11:20,11:50,,AMIS,30,#N/A,#N/A,#N/A
 315,,,,11:50,12:20,,Monolith,30,#N/A,#N/A,#N/A
 105,,,,12:20,13:35,,Lunch,75,#N/A,#N/A,#N/A
-501,,601,,13:35,13:55,,Sponsor session,20,larry_salibra,Building apps that can't be evil,45
+501,,601,2,13:35,13:55,,Sponsor session,20,larry_salibra,Building apps that can't be evil,45
 302,,104,,13:55,14:25,ping_chen,,30,,Break,10
 303,,602,,14:25,14:55,han_verstraete,The tangent of code and law: Spin up legal containers on blockchain in 1 second for 1 dollar (DAI),30,kung_chen,Ethereum PoA consortium chain to support inter-hospital data sharing,30
 401,,603,,14:55,15:35,chih-cheng_liang,Panel,40,tung-wei_kuo,New BFT consensus algorithm in geth,30
@@ -32,7 +32,7 @@ Day 2,,,,,,,,,,,
 312,,,,13:45,14:15,raul_kripalani,libp2p: Modular peer-to-peer networking stack,30,#N/A,#N/A,#N/A
 313,,,,14:15,14:45,adrian_manning,Ethereum 2.0 Client Lighthouse,30,#N/A,#N/A,#N/A
 402,,,,14:45,15:25,hsiao-wei_wang,The future of Ethereum,40,#N/A,#N/A,#N/A
-103,,,,15:25,15:45,,Break,20,#N/A,#N/A,#N/A
+103,,107,4,15:25,15:45,,Break,20,,TBD,30
 316,,,,15:45,16:15,philipp_seifert,imToken,30,#N/A,#N/A,#N/A
 307,,,,16:15,16:45,hydai,eWASM VM - The next generation Ethereum Virtual Machine,30,#N/A,#N/A,#N/A
 203,,,,16:45,16:55,phini_yang,Closing Ceremony,10,#N/A,#N/A,#N/A

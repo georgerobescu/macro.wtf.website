@@ -1,0 +1,41 @@
+item,complexity,language,speakers,tags,extend,icon,title,description,presentation,videoId,type,length
+101,,,,,,,Registration ,"Get your badge, coffee, enjoy talking with tech edicts around",,,util,30
+102,,,,,,,Opening,Opening,,,util,5
+103,,,,,,coffee-break,Break,20 min,,,util,20
+104,,,,,,coffee-break,Break,10 min,,,util,10
+105,,,,,,lunch,Lunch,,,,util,75
+106,,,,,,,Photo Time,,,,util,5
+107,,,,,,,TBD,,,,util,30
+201,,English,vitalik_buterin,,,,,,,,Keynote 1,40
+202,Beginner,English,albert_ni,,,,Ethereum Foundation Grants Ceremony,,,,Ceremony,15
+203,,English,phini_yang,,,,Closing Ceremony,,,,Ceremony,10
+204,,English,alice_chang,,,,Welcome speech,,,,Ceremony,5
+301,Beginner,English,danny_ryan,,,,Ethereum 2.0,,,,Presentation,30
+302,Beginner,English,ping_chen,,,,,,,,Presentation,30
+303,Beginner,English,han_verstraete,,,,The tangent of code and law: Spin up legal containers on blockchain in 1 second for 1 dollar (DAI),,,,Presentation,30
+304,Beginner,English,tim_hsu,,,,Private key security and protection,,,,Presentation,30
+305,Beginner,English,luis_cuende,,,,Using DAOs to fundraise for your project,,,,Presentation,30
+306,Beginner,English,liam_horne,,,,A secure state channels framework for Ethereum,,,,Presentation,30
+307,Beginner,English,hydai,,,,eWASM VM - The next generation Ethereum Virtual Machine,,,,Presentation,30
+308,Beginner,English,"hankuan_yu, hank_chiu",,,,Own your private keys and privacy,,,,Presentation,30
+309,Beginner,English,yuriko_nishijima,,,,How to Build Generalized Applications on Layer 2,,,,Presentation,30
+310,Beginner,English,raul_kripalani,,,,libp2p: Modular peer-to-peer networking stack,,,,Presentation,30
+311,Beginner,English,adrian_manning,,,,Ethereum 2.0 Client Lighthouse,,,,Presentation,30
+312,Beginner,English,raul_kripalani,,,,libp2p: Modular peer-to-peer networking stack,,,,Presentation,30
+313,Beginner,English,adrian_manning,,,,Ethereum 2.0 Client Lighthouse,,,,Presentation,30
+314,Beginner,English,,,,,AMIS,,,,Presentation,30
+315,Beginner,English,,,,,Monolith,,,,Presentation,30
+316,Beginner,English,philipp_seifert,,,,imToken,,,,Presentation,30
+317,Beginner,English,,,,,BitoEX,,,,Presentation,30
+401,Beginner,English,chih-cheng_liang,,,,Panel,,,,Panel,40
+402,Beginner,English,hsiao-wei_wang,,,,The future of Ethereum,,,,Panel,40
+501,,,,,,,Sponsor session,,,,Sponsor session,20
+502,,,,,,,Sponsor session,,,,Sponsor session,20
+601,Beginner,English,larry_salibra,,,,Building apps that can't be evil,,,,workshop,45
+602,Beginner,English,kung_chen,,,,Ethereum PoA consortium chain to support inter-hospital data sharing,,,,workshop,30
+603,Beginner,English,tung-wei_kuo,,,,New BFT consensus algorithm in geth,,,,workshop,30
+604,Beginner,English,po-chun_kuo,,,,VDFs Workshop: Introduction to VDFs,,,,workshop,20
+605,Beginner,English,dankrad_feist,,,,VDFs Workshop: VDFs Applications,,,,workshop,20
+606,Beginner,English,chang-wu_chen,,,,VDFs Workshop: Discussion,,,,workshop,20
+607,Beginner,English,"alexander_praetorius, nina_breznik",,,,ABC of writing Ethereum smart contracts,,,,workshop,120
+608,Beginner,English,luis_cuende,,,,How to create a custom DAO,,,,workshop,120

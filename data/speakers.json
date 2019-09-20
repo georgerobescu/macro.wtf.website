@@ -1,133 +1,161 @@
 {
   "adrian_manning": {
-    "order": 1,
-    "featured": false,
-    "company": "Sigma Prime",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/adrian_manning.jpg",
     "name": "Adrian Manning",
     "title": "Co-founder",
-    "photo": "/images/people/adrian_manning.jpg"
+    "company": "Sigma Prime",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/adrian_manning.jpg",
+    "featured": false,
+    "order": 1.0
   },
   "alexander_praetorius": {
+    "name": "Alexander Praetorius",
     "title": "Co-founder",
-    "photo": "/images/people/alexander_praetorius.png",
-    "order": 2,
     "company": "Wizard Amigos & Play Project",
     "photoUrl": "https://croink2019.firebaseapp.com/images/people/alexander_praetorius.png",
-    "name": "Alexander Praetorius"
+    "featured": false,
+    "order": 2.0
   },
   "dankrad_feist": {
-    "order": 2.5,
-    "company": "Ethereum Foundation",
+    "name": "Dankrad Feist",
     "title": "Researcher",
+    "company": "Ethereum Foundation",
     "photoUrl": "https://croink2019.firebaseapp.com/images/people/dankrad_feist.jpg",
-    "name": "Dankrad Feist"
+    "featured": false,
+    "order": 2.5
   },
   "danny_ryan": {
     "name": "Danny Ryan",
-    "featured": false,
-    "company": "Ethereum Foundation",
     "title": "Researcher",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/placeholder.png"
+    "company": "Ethereum Foundation",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/placeholder.png",
+    "featured": false
   },
   "han_verstraete": {
-    "company": "Otonomos.com",
-    "title": "CEO",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/han.jpg",
     "name": "Han Verstraete",
-    "order": 4
+    "title": "CEO",
+    "company": "Otonomos.com",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/han.jpg",
+    "featured": false,
+    "order": 4.0
+  },
+  "hank_chiu": {
+    "name": "Hank Chiu",
+    "title": "Tech Manager of Engineering",
+    "company": "HTC EXODUS",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/hank_chiu.jpg",
+    "featured": false,
+    "order": 4.3
+  },
+  "hankuan_yu": {
+    "name": "Hankuan Yu",
+    "title": "Head of Engineering",
+    "company": "HTC EXODUS",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/hankuan_yu.jpg",
+    "featured": false,
+    "order": 4.6
   },
   "hsiao-wei_wang": {
-    "order": 5,
-    "company": "Ethereum Foundation",
+    "name": "Hsiao-Wei Wang",
     "title": "Researcher",
+    "company": "Ethereum Foundation",
     "photoUrl": "https://croink2019.firebaseapp.com/images/people/hsiao-wei_wang.jpg",
-    "name": "Hsiao-Wei Wang"
+    "featured": false,
+    "order": 5.0
   },
   "hydai": {
     "name": "Hydai",
-    "order": 6,
-    "company": "Second State",
     "title": "VP of engineering",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/hydai.jpg"
+    "company": "Second State",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/hydai.jpg",
+    "featured": false,
+    "order": 6.0
   },
   "kung_chen": {
     "name": "Kung Chen",
-    "order": 7,
-    "company": "National Chengchi University",
     "title": "Professor",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/kung_chen.png"
+    "company": "National Chengchi University",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/kung_chen.png",
+    "featured": false,
+    "order": 7.0
   },
   "larry_salibra": {
+    "name": "Larry Salibra",
     "title": "Core Developer",
-    "photo": "/images/people/larry.png",
-    "order": 8,
     "company": "Blockstack",
     "photoUrl": "https://croink2019.firebaseapp.com/images/people/larry.png",
-    "name": "Larry Salibra"
+    "featured": false,
+    "order": 8.0
   },
   "liam_horne": {
-    "company": "L4 Ventures & ETHGlobal",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/liam_horne.png",
     "name": "Liam Horne",
     "title": "Co-founder",
-    "photo": "/images/people/liam_horne.png",
-    "order": 9,
-    "featured": true
+    "company": "L4 Ventures & ETHGlobal",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/liam_horne.png",
+    "featured": true,
+    "order": 9.0
   },
   "luis_cuende": {
-    "company": "Aragon",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/luis_cuende.jpg",
     "name": "Luis Cuende",
     "title": "CEO",
-    "order": 10,
-    "featured": true
+    "company": "Aragon",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/luis_cuende.jpg",
+    "featured": true,
+    "order": 10.0
   },
   "nina_breznik": {
     "name": "Nina Breznik",
     "title": "Co-founder",
-    "photo": "/images/people/nina_breznik.jpg",
-    "order": 11,
     "company": "Wizard Amigos & Play Project",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/nina_breznik.jpg"
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/nina_breznik.jpg",
+    "featured": false,
+    "order": 11.0
   },
   "ping_chen": {
-    "company": "Pelith",
-    "title": "Founder",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/ping_chen.jpg",
     "name": "Ping Chen",
-    "order": 12
+    "title": "Founder",
+    "company": "Pelith",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/ping_chen.jpg",
+    "featured": false,
+    "order": 12.0
   },
   "po-chun_kuo": {
-    "company": "Byzantine Lab",
-    "title": "Chief Scientist",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/po-chun_kuo.png",
     "name": "Po-Chun Kuo",
+    "title": "Chief Scientist",
+    "company": "Byzantine Lab",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/po-chun_kuo.png",
+    "featured": false,
     "order": 12.5
   },
   "raul_kripalani": {
-    "order": 13,
-    "featured": true,
+    "name": "Ra\u00fal Kripalani",
+    "title": "libp2p Tech Lead",
     "company": "Protocol Labs",
     "photoUrl": "https://croink2019.firebaseapp.com/images/people/raul_kripalani.jpg",
-    "name": "Raúl Kripalani",
-    "title": "libp2p Tech Lead",
-    "photo": "/images/people/raul_kripalani.jpg"
+    "featured": true,
+    "order": 13.0
   },
   "tung-wei_kuo": {
-    "order": 14,
-    "company": "National Chengchi University",
+    "name": "Tung-Wei Kuo",
     "title": "Assistant Professor",
+    "company": "National Chengchi University",
     "photoUrl": "https://croink2019.firebaseapp.com/images/people/tung-wei_kuo.jpg",
-    "name": "Tung-Wei Kuo"
+    "featured": false,
+    "order": 14.0
   },
   "vitalik_buterin": {
-    "company": "Ethereum Foundation",
-    "photoUrl": "https://croink2019.firebaseapp.com/images/people/vitalik_buterin.jpg",
     "name": "Vitalik Buterin",
     "title": "Chief Scientist",
-    "photo": "/images/people/vitalik_buterin.jpg",
-    "order": 15,
-    "featured": true
+    "company": "Ethereum Foundation",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/vitalik_buterin.jpg",
+    "featured": true,
+    "order": 15.0
+  },
+  "yuriko_nishijima": {
+    "name": "Yuriko Nishijima",
+    "title": "Developer & Researcher",
+    "company": "Cryptoeconomics Lab",
+    "photoUrl": "https://croink2019.firebaseapp.com/images/people/yuriko_nishijima.png",
+    "featured": false,
+    "order": 16.0
   }
 }

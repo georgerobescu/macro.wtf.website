@@ -195,7 +195,7 @@
       static get observers() {
         return [
           '_setDay(active, routeData.day, schedule)',
-          '_openSessionDetails(active, sessions, _selectedFilters.sessionId)',
+          // '_openSessionDetails(active, sessions, _selectedFilters.sessionId)',
           '_fetchFeaturedSessions(active, sessions, user.uid)',
           '_scheduleChanged(schedule, _selectedFilters)',
           '_sessionsAndSpeakersChanged(sessions, speakers)',
@@ -268,4 +268,3 @@
 
   </script>
 </dom-module>
-

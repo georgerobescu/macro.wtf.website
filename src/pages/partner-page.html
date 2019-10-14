@@ -1,0 +1,163 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
+<link rel="import" href="../../bower_components/plastic-image/plastic-image.html">
+<link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+<link rel="import" href="../elements/partners-block.html">
+
+<link rel="import" href="../mixins/redux-mixin.html">
+<link rel="import" href="../elements/shared-styles.html">
+
+<dom-module id="partner-page">
+  <template>
+    <style include="shared-styles flex flex-alignment">
+      :host {
+        display: block;
+      }
+
+      .description-wrapper {
+          background-color: var(--secondary-background-color);
+          width: 100%;
+          overflow: hidden;
+      }
+
+      .team-title {
+        font-size: 30px;
+        line-height: 2.5;
+      }
+
+      .team-block {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 24px;
+        margin-bottom: 32px;
+      }
+
+      .member {
+        padding: 16px 0;
+        min-width: 300px;
+      }
+
+      .photo {
+        flex: none;
+        width: 96px;
+        height: 96px;
+        background-color: var(--contrast-additional-background-color);
+        border-radius: 50%;
+        overflow: hidden;
+        transform: translateZ(0);
+        border-radius: 50%;
+        border: 5px solid var(--contrast-additional-background-color);
+      }
+
+      .member-details {
+        color: var(--primary-text-color);
+        margin-left: 16px;
+      }
+
+      .name {
+        padding-left: 6px;
+        line-height: 1.2;
+      }
+
+      .activity {
+        font-size: 16px;
+        padding-left: 6px;
+      }
+
+      .social-icon {
+        --paper-icon-button: {
+          padding: 6px;
+          width: 32px;
+          height: 32px;
+        };
+
+        color: var(--secondary-text-color);
+        transition: transform var(--animation);
+      }
+
+      .social-icon:hover {
+        transform: scale(1.1);
+      }
+
+      @media (min-width: 640px) {
+        .team-block {
+          grid-template-columns: repeat(2, 1fr);
+        }
+
+         .member {
+          padding: 32px 0;
+        }
+      }
+
+      @media (min-width: 812px) {
+        .photo {
+          width: 115px;
+          height: 115px;
+        }
+      }
+
+      @media (min-width: 1024px) {
+        .team-block {
+          grid-template-columns: repeat(3, 1fr);
+        }
+
+         .photo {
+          width: 128px;
+          height: 128px;
+        }
+      }
+
+    </style>
+
+    <!--polymer-helmet
+      title="{$ heroSettings.partners.title $} | {$ title $}"
+      description="{$ heroSettings.partners.metaDescription $}"
+      active="[[active]]"
+    ></polymer-helmet-->
+
+    <!--hero-block
+      background-image="{$ heroSettings.partners.background.image $}"
+      background-color="{$ heroSettings.partners.background.color $}"
+      font-color="{$ heroSettings.partners.fontColor $}"
+      active="[[active]]"
+    >
+      <div class="hero-title highlight-font">{$ heroSettings.partners.title $}</div>
+      <p class="hero-description">{$ heroSettings.partners.metaDescription $}</p>
+    </hero-block-->
+
+    <div class="description-wrapper">
+      <div class="container" layout horizontal justified>
+        <marked-element class="description" markdown="{$ heroSettings.partners.description $}">
+          <div slot="markdown-html"></div>
+        </marked-element>
+      </div>
+    </div>
+
+    <div class="container">
+      <partners-block></partners-block>
+    </div>
+
+    <footer-block></footer-block>
+  </template>
+  <script>
+    // eslint-disable-next-line no-undef
+    class PartnerPage extends Polymer.Element {
+      static get is() {
+        return 'partner-page';
+      }
+
+      static get properties() {
+        return {
+          active: Boolean,
+          source: {
+            type: String,
+            value: '{$ partner $}',
+          },
+        };
+      }
+    }
+
+    window.customElements.define(PartnerPage.is, PartnerPage);
+  </script>
+</dom-module>

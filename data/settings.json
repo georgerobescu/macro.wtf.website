@@ -116,7 +116,7 @@
     "name": "Taipei Innovation City Convention Center",
     "city": "New Taipei",
     "short": "New Taipei, Taiwan",
-    "address": "2F., No. 223, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City 231, Taiwan / 台灣新北市新店區北新路三段 223 號 2 樓 (台北矽谷國際會議中心) ",
+    "address": "Taipei Innovation City Convention Center / 臺北矽谷國際會議中心",
     "pointer": {
       "latitude": 24.986118,
       "longitude": 121.540098,
@@ -126,7 +126,7 @@
       "latitude": 24.986118,
       "longitude": 121.540098
     },
-    "description": "Taipei Innovation City Convention Center is located near the MRT Dapinglin Station (G04)"
+    "description": "2F., No. 223, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City 231, Taiwan / 台灣新北市新店區北新路三段 223 號 2 樓 (台北矽谷國際會議中心) "
   },
   "mediaQueries": {
     "xs": {

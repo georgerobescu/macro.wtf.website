@@ -89,5 +89,37 @@ const speakersData = [
     ],
     "tags": ["Web"],
     "title": "Code Monkey"
-  }
+  },
+  {
+    "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
+    "company": "Applause",
+    "companyLogo": "/images/logos/gdg-lviv.svg",
+    "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+    "country": "Warsaw, Poland",
+    "featured": false,
+    "id": "tina_zhen",
+    "name": "Tina Zhen",
+    "order": 1,
+    "photo": "/images/people/tina_zhen.jpg",
+    "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+    "sessions": [
+    ],
+    "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+    "socials": [{
+            "icon": "twitter",
+            "link": "https://twitter.com/tzhen",
+            "name": "Twitter"
+        }, {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/tina.zhen",
+            "name": "Facebook"
+        }, {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/%E5%A4%A9%E8%99%B9-%E7%94%84-3b49a8152/",
+            "name": "LinkedIn"
+        }
+    ],
+    "tags": ["Web"],
+    "title": "Yellow Hat"
+  },
 ]

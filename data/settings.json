@@ -1,8 +1,8 @@
 {
   "organizer": {
-    "name": "Taipei Ethereum Meetup",
-    "twitter": "eth_taipei",
-    "blog": "https://medium.com/taipei-ethereum-meetup",
+    "name": "WTF DAO",
+    "twitter": "WTFdao",
+    "blog": "https://medium.com/@WTFdao",
     "url": "https://ethertw.github.io/eth.taipei/"
   },
   "startDate": "2019-10-19T09:00:00+08:00",
@@ -147,8 +147,8 @@
   "socialNetwork": {
     "follow": [
       {
-        "name": "meetup",
-        "url": "https://www.meetup.com/Taipei-Ethereum-Meetup/"
+        "name": "medium",
+        "url": "https://medium.com/@WTFdao"
       },
       {
         "name": "facebook",
@@ -156,7 +156,7 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/eth_taipei"
+        "url": "https://twitter.com/WTFdao"
       }
     ],
     "share": [

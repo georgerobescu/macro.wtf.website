@@ -269,37 +269,13 @@ const blogActions = {
 const speakersActions = {
   fetchList: () => (dispatch) => {
     dispatch({
-      type: FETCH_SPEAKERS,
+      type: FETCH_SPEAKERS_SUCCESS,
+      payload: {
+        obj: speakersData.reduce((acc, curr) =>
+          Object.assign({}, acc, { [curr.id]: curr }), {}),
+        list: speakersData,
+      },
     });
-
-    const speakersPromise = new Promise((resolve, reject) => {
-      firebase.firestore()
-          .collection('generatedSpeakers')
-          .orderBy('order', 'asc')
-          .get()
-          .then((snaps) => {
-            resolve(snaps.docs.map((snap) => Object.assign({}, snap.data())));
-          })
-          .catch(reject);
-    });
-
-    return Promise.all([speakersPromise])
-        .then(([speakers]) => {
-          dispatch({
-            type: FETCH_SPEAKERS_SUCCESS,
-            payload: {
-              obj: speakers.reduce((acc, curr) =>
-                Object.assign({}, acc, { [curr.id]: curr }), {}),
-              list: speakers,
-            },
-          });
-        })
-        .catch((error) => {
-          dispatch({
-            type: FETCH_SPEAKERS_FAILURE,
-            payload: { error },
-          });
-        });
   },
 };
 

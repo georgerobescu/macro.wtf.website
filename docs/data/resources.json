@@ -1,0 +1,224 @@
+{
+  "title": "Crosslink 2019",
+  "description": "An Ethereum Event in Taipei, Taiwan",
+  "image": "images/social-share.jpg",
+  "keywords": "event, eth, ethereum, developers",
+  "dates": "October 19-20, 2019",
+  "partnershipProposition": "",
+  "share": "Share",
+  "followOur": "Follow our",
+  "followUs": "Follow us",
+  "emailUs": "Email us",
+  "partnershipResources": "合作資源",
+  "eventResources": "活動資源",
+  "buyTicket": "Buy Ticket",
+  "signIn": "登入",
+  "signOut": "登出",
+  "viewHighlights": "View Highlights",
+  "offlineMessage": "You can still work offline.",
+  "cachingComplete": "Caching complete! Future visits will work offline.",
+  "newVersionAvailable": "A new version of this app is available.",
+  "refresh": "Refresh",
+  "position": "Position",
+  "country": "Country",
+  "time": "Time",
+  "faq": "/data/faq.md",
+  "cod": "/data/cod.md",
+  "footer": {
+    "blog": "Medium Column"
+  },
+  "mySchedule": {
+    "title": "My Schedule",
+    "browseSession": "Browse sessions"
+  },
+  "footerRelBlock": [
+    {
+      "title": "About",
+      "links": [
+        {
+          "name": "Taipei Ethereum Meetup",
+          "url": "https://ethertw.github.io/eth.taipei/",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "subscribeNote": "No spam, only the latest news and updates!",
+  "codeOfConduct": "Code of Conduct",
+  "aboutBlock": {
+    "title": "What you need to know, before you ask.",
+    "callToAction": {
+      "featuredSessions": {
+        "description": "Crosslink 2019 is a two-day conference in Taipei with domestic and overseas leading blockchain researchers and developers.",
+        "label": "Explore featured session",
+        "link": "https://youtu.be/9RtSod8EXn4?t=11388"
+      },
+      "howItWas": {
+        "description": "BeyondBlock Taipei 2017 was the event with similar nature hosted by co-organizers of Taipei Ethereum Meetup.",
+        "label": "See how it was in 2017",
+        "youtubeId": "9RtSod8EXn4"
+      }
+    },
+    "statisticsBlock": {
+      "attendees": {
+        "label": "Attendees",
+        "number": "350"
+      },
+      "days": {
+        "label": "Days",
+        "number": "2"
+      },
+      "sessions": {
+        "label": "Sessions",
+        "number": "19"
+      },
+      "tracks": {
+        "label": "Tracks",
+        "number": "2"
+      }
+    }
+  },
+  "ticketsBlock": {
+    "title": "Tickets",
+    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "soldOut": "You missed it!",
+    "notAvailableYet": "Not available yet",
+    "save": "Save ${discount}% today"
+  },
+  "partnersBlock": {
+    "title": "Partners",
+    "button": "Become a partner",
+    "form": {
+      "title": "Become a partner!",
+      "submitLabel": "Submit",
+      "fullName": "Full Name",
+      "companyName": "Company Name"
+    },
+    "toast": "We will contact you soon!"
+  },
+  "featuredVideos": {
+    "title": "DFUA'16 featured videos",
+    "callToAction": {
+      "label": "See all videos",
+      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+    }
+  },
+  "blog": {
+    "published": "Published",
+    "suggested": "Up next"
+  },
+  "latestPostsBlock": {
+    "title": "The latest news",
+    "callToAction": {
+      "label": "View all stories",
+      "link": "/blog/"
+    }
+  },
+  "speakers": {
+    "skills": "Skills",
+    "previousYears": "Years",
+    "previousYear": "Year"
+  },
+  "speakersBlock": {
+    "title": "Rockstar speakers",
+    "callToAction": {
+      "label": "View all speakers",
+      "link": "/speakers/"
+    }
+  },
+  "previousSpeakersBlock": {
+    "title": "Previous speakers",
+    "callToAction": {
+      "label": "View all",
+      "link": "/previous-speakers/"
+    }
+  },
+  "galleryBlock": {
+    "title": "#dfua16 highlights",
+    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "callToAction": {
+      "label": "See all photos",
+      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+    }
+  },
+  "mapBlock": {
+    "title": "Location"
+  },
+  "subscribeBlock": {
+    "callToAction": {
+      "description": "Get notified about the important conference updates",
+      "label": "Subscribe"
+    },
+    "yourEmail": "Your email",
+    "emailAddress": "Email Address",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "emailRequired": "Please enter a valid email address.",
+    "subscribe": "Subscribe",
+    "subscribed": "Subscribed",
+    "close": "Close",
+    "generalError": "An error has occurred. Please, try again later.",
+    "toast": "Successfully subscribed!"
+  },
+  "team": {
+    "description": "Taipei Ethereum Meetup is a Taiwan-based local meetup to support blockchain technical research, development, and community. We wish to crosslink the Taiwanese community to the global ecosystem."
+  },
+  "schedule": {
+    "saveSessionsSignedOut": "Sign in to save sessions"
+  },
+  "sessionDetails": {
+    "contentLevel": "Content level",
+    "viewPresentation": "View presentation",
+    "viewVideo": "View video",
+    "speakers": "Speakers"
+  },
+  "speakerDetails": {
+    "sessions": "Sessions"
+  },
+  "notifications": {
+    "default": "Enable notifications",
+    "enabled": "We will miss you but you can unsubscribe anytime",
+    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
+    "subscribe": "Subscribe",
+    "unsubscribe": "Unsubscribe",
+    "enable": {
+      "label": "Enable",
+      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
+    },
+    "toast": {
+      "title": "Open"
+    }
+  },
+  "aboutOrganizerBlock": {
+    "image": "/images/team.jpg",
+    "blocks": [
+      {
+        "title": "Organizer",
+        "description": "<a href='https://twitter.com/eth_taipei' target='_blank'>Taipei Ethereum Meetup</a> is a Taiwan-based local meetup to support blockchain technical research, development, and community. We wish to crosslink the Taiwanese community to the global ecosystem.",
+        "callToAction": {
+          "label": "Our past events",
+          "link": "https://www.youtube.com/channel/UCVmRAQeesq4TA3rdvbz-IkQ/videos"
+        }
+      }
+    ]
+  },
+  "signInDialog": {
+    "alreadyHaveAccount": "You already have an account",
+    "alreadyUsed": "You've already used",
+    "signInToContinue": {
+      "part1": "Sign in with",
+      "part2": "to continue."
+    }
+  },
+  "filters": {
+    "title": "Filters",
+    "results": "Results",
+    "tags": "Tags",
+    "complexity": "Complexity",
+    "clear": "Clear all"
+  },
+  "addToHomeScreen": {
+    "cta": "Add to Home Screen"
+  }
+}

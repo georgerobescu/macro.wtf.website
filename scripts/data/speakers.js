@@ -1,6 +1,30 @@
 const speakersData = [
     {
         "bio": "...",
+        "company": "Castle Island",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Warsaw, Poland",
+        "featured": false,
+        "id": "nic_carter",
+        "name": "Nic Carter",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/nic__carter",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },    
+    {
+        "bio": "...",
         "company": "Gauntlet Network",
         "companyLogo": "/images/logos/gdg-lviv.svg",
         "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",

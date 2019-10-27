@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "...",
+        "company": "Gauntlet Network",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Warsaw, Poland",
+        "featured": false,
+        "id": "tarun_chitra",
+        "name": "Tarun Chitra",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/tarunchitra",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },     
+    {
         "bio": "Partner @placeholdervc. Your doubt is my alpha.",
         "company": "Placeholder",
         "companyLogo": "/images/logos/gdg-lviv.svg",

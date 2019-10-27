@@ -14,18 +14,22 @@ const data = [
       {
         topic: "Grand Unifying Theory of Cryptoeconomics",
         duration: 20,
+        speaker: ["shruti_appiah"]
       },
       {
         topic: "Balancing Order and Chaos: Universality in Cryptoeconomics",
         duration: 20,
+        speaker: ["tarun_chitra"]
       },
       {
         topic: "WTF is Capital",
         duration: 20,
+        speaker: ["joel_monegro"]
       },
       {
         topic: "WTF is Stability?",
         duration: 15,
+        speaker: ["haseeb_qureshi"]
       }
     ]
   },
@@ -38,14 +42,17 @@ const data = [
       {
         topic: "What Kinds of Assets are Cryptocurrencies: An Empirical Evaluation",
         duration: 20,
+        speaker: ["nic_carter"]
       },
       {
         topic: "Analyzing Macro Trends and the Impact on Bitcoin",
         duration: 10,
+        speaker: ["matt_d_souza"]
       },
       {
         topic: "Macro Case for Bitcoin",
         duration: 45,
+        speaker: ["vanessa_grellet", "nic_carter", "james_preswich", "will_wolf"]
       }
     ]
   },
@@ -130,10 +137,12 @@ const data = [
       {
         topic: "Central Bank Digital Currency",
         duration: 15,
+        speakers: ["dovey_wan"]
       },
       {
         topic: "Geopolitical Game Theory (Panel)",
         duration: 45,
+        speakers: ["dovey_wan"]
       },
       {
         topic: "WTF Initiative: Call for Research and Experimentations",
@@ -189,7 +198,8 @@ const scheduleData = [{
             duration: {
               hh: Math.floor(item.duration / 60),
               mm: item.duration % 60
-            }
+            },
+            speakers: (item.speakers || []).map(id => speakersData.find(x => x.id === id))
           }))
         });
       }

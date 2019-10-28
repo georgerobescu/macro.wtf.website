@@ -567,8 +567,8 @@ const speakersData = [
     "title": "Yellow Hat"
   },
   {
-    "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-    "company": "Applause",
+    "bio": "Founding Partner @PrimitiveCrypto with @wheatpond. ED @ http://Hardcore.fund. 💩 coin minimalist, 🌏 citizen, amateur 🦈 chaser. ₿uy and $ell",
+    "company": "Primitive",
     "companyLogo": "/images/logos/gdg-lviv.svg",
     "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
     "country": "Decentralized",
@@ -580,7 +580,7 @@ const speakersData = [
     "photoUrl": "https://pbs.twimg.com/profile_images/3159516013/08d09f43bd78a9207621af0747e34872_400x400.jpeg",
     "sessions": [
     ],
-    "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+    "shortBio": "Founding Partner @PrimitiveCrypto with @wheatpond",
     "socials": [{
             "icon": "twitter",
             "link": "https://twitter.com/DoveyWan",

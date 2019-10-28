@@ -4,6 +4,7 @@ const data = [
     endTime: "09:30",
     topic: "Sign-in & Opening Remarks",
     duration: 30,
+    icon: "registration"
   },
   {
     startTime: "09:30",
@@ -14,22 +15,22 @@ const data = [
       {
         topic: "Grand Unifying Theory of Cryptoeconomics",
         duration: 20,
-        speaker: ["shruti_appiah"]
+        speakers: ["shruti_appiah"]
       },
       {
         topic: "Balancing Order and Chaos: Universality in Cryptoeconomics",
         duration: 20,
-        speaker: ["tarun_chitra"]
+        speakers: ["tarun_chitra"]
       },
       {
         topic: "WTF is Capital",
         duration: 20,
-        speaker: ["joel_monegro"]
+        speakers: ["joel_monegro"]
       },
       {
         topic: "WTF is Stability?",
         duration: 15,
-        speaker: ["haseeb_qureshi"]
+        speakers: ["haseeb_qureshi"]
       }
     ]
   },
@@ -42,17 +43,17 @@ const data = [
       {
         topic: "What Kinds of Assets are Cryptocurrencies: An Empirical Evaluation",
         duration: 20,
-        speaker: ["nic_carter"]
+        speakers: ["nic_carter"]
       },
       {
         topic: "Analyzing Macro Trends and the Impact on Bitcoin",
         duration: 10,
-        speaker: ["matt_d_souza"]
+        speakers: ["matt_dsouza"]
       },
       {
         topic: "Macro Case for Bitcoin",
         duration: 45,
-        speaker: ["vanessa_grellet", "nic_carter", "james_preswich", "will_wolf"]
+        speakers: ["vanessa_grellet", "nic_carter", "james_preswich", "will_wolf"]
       }
     ]
   },
@@ -61,6 +62,7 @@ const data = [
     endTime: "12:30",
     topic: "Lunch Break",
     duration: 30,
+    icon: "lunch"
   },
   {
     startTime: "12:30",
@@ -71,18 +73,22 @@ const data = [
       {
         topic: "A Brief History of Monetary Economics and Crypto",
         duration: 20,
+        speakers: ["joel_monegro"]
       },
       {
         topic: "Like Uber, But For Slavery — The Power of Fiat Money",
         duration: 20,
+        speakers: ["steve_waldman"]
       },
       {
         topic: "Lessons from History: Fiat Money Inflation in France post French Revolution",
         duration: 15,
+        speakers: ["claire_belmont"]
       },
       {
         topic: "Unplugging from the Fiat Matrix (Game Theory of Fiat Currency)",
         duration: 20,
+        speakers: ["varun_vruddhula"]
       }
     ]
   },
@@ -95,6 +101,7 @@ const data = [
       {
         topic: "Algorithmic Monetary Policy",
         duration: 30,
+        speakers: ["john_p_conley"]
       },
       {
         topic: "Overview of Monetary Policy across Each Crypto Economies",
@@ -102,15 +109,18 @@ const data = [
       },
       {
         topic: "The Case for Negative Interest Rates",
-        duration: 15,
+        duration: 20,
+        speakers: ["marek_olszewski"]
       },
       {
         topic: "Staking in Perpetuity: Explorations in Monetary Policy",
         duration: 20,
+        speakers: ["jeremiah_andrews"]
       },
       {
         topic: "Evolution of Debt in the Crypto Ecosystem",
         duration: 15,
+        speakers: ["brent_xu"]
       }
     ]
   },
@@ -119,6 +129,7 @@ const data = [
     endTime: "15:45",
     topic: "Coffee Break",
     duration: 15,
+    icon: "coffee-break",
   },
   {
     startTime: "15:45",
@@ -129,10 +140,17 @@ const data = [
       {
         topic: "Monetary Systems in an International Context",
         duration: 45,
+        speakers: ["sunny_aggarwal", "zaki_manian", "steve_waldman", "john_p_conley"]
+      },
+      {
+        topic: "Petro:  A Failed Trojan Horse",
+        duration: 15,
+        speakers: ["gabriel_jimenez"]
       },
       {
         topic: "Global Cryptocurrency Adoption",
-        duration: 45,
+        duration: 30,
+        speakers: ["joel_monegro", "charlie", "gabriel_jimenez"]
       },
       {
         topic: "Central Bank Digital Currency",
@@ -141,8 +159,8 @@ const data = [
       },
       {
         topic: "Geopolitical Game Theory (Panel)",
-        duration: 45,
-        speakers: ["dovey_wan"]
+        duration: 30,
+        speakers: ["sunny_aggarwal", "dovey_wan", "lasse_clausen"]
       },
       {
         topic: "WTF Initiative: Call for Research and Experimentations",
@@ -179,7 +197,8 @@ const scheduleData = [{
               duration: {
                 hh: Math.floor(item.duration / 60),
                 mm: item.duration % 60
-              }
+              },
+              icon: item.icon
             }
           ]
         }

@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "Founder @ Summa (@summa_one) | Curry Enthusiast | Voted Best Hair in Ethereum 2019",
+        "company": "Summa",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "San Francisco, CA",
+        "featured": false,
+        "id": "james_prestwich",
+        "name": "James Prestwich",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Founder of Summa",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/_prestwich",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Executive Director @ConsenSysLLC |@EntEthAlliance |@ethereum4impact | Founding Chair NEXUS Impact Investing Group & Chair Blockchain labs #impinv",
         "company": "Consensys",
         "companyLogo": "/images/logos/gdg-lviv.svg",

@@ -69,12 +69,6 @@ const speakersData = [
   },
   {
       "id": "gabriel_jimenez",
-      "name": "Gabriel Jimenez",
-      "company": "Petro",
-      "socials": []
-  },
-  {
-      "id": "gabriel_jiménez",
       "bio": "Mí país es mi norte. Mí email: gabrielj1990@gmail.com",
       "name": "Gabriel Jiménez",
       "company": "Petro",
@@ -85,7 +79,7 @@ const speakersData = [
               "name": "Twitter"
           }
       ],
-      "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+      "photoUrl": "/images/people/gabriel_jimenez.png",
       "shortBio": ".."
   },
   {

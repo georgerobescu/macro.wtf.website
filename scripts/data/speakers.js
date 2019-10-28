@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "Skeptical optimist. Founding partner @1kxNetwork. Show me the incentive and I will show you the outcome.",
+        "company": "1kx",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Decentraland",
+        "featured": false,
+        "id": "lasse_clausen",
+        "name": "Lasse Clausen",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Founding partner @1kxNetwork",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/lalleclausen",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "🇨🇳 🇺🇸 🇸🇬 Founding Partner @PrimitiveCrypto with @wheatpond. ED @ http://Hardcore.fund. 💩 coin minimalist, 🌏 citizen, amateur 🦈 chaser. ₿uy and $ell",
         "company": "Primitive",
         "companyLogo": "/images/logos/gdg-lviv.svg",

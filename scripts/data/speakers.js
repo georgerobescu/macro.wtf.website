@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "Co-Founder Blockchain Opportunity Fund | Co-Founder Blockware Solutions | Loom Validator: https://blockwarepool.com/loom Canslim/Trend Following/Livermore",
+        "company": "Blockchain Opportunity Fund",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Warsaw, Poland",
+        "featured": false,
+        "id": "matt_dsouza",
+        "name": "Matt D'Souza",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/mjdsouza2",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "...",
         "company": "Castle Island",
         "companyLogo": "/images/logos/gdg-lviv.svg",

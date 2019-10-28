@@ -1,5 +1,33 @@
 const speakersData = [
     {
+        "bio": "Product @CeloHQ, I aspire to empower people",
+        "company": "Celo",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Decentralized",
+        "featured": false,
+        "id": "claire_belmont",
+        "name": "Claire Belmont",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Product of Celo",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/clairebelmont",
+                "name": "Twitter"
+            }, {
+                "icon": "linkedin",
+                "link": "https://uk.linkedin.com/in/clairebelmont",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "...",
         "company": "Interfluidity",
         "companyLogo": "/images/logos/gdg-lviv.svg",

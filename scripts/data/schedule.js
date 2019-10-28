@@ -4,6 +4,7 @@ const data = [
     endTime: "09:30",
     topic: "Sign-in & Opening Remarks",
     duration: 30,
+    icon: "registration"
   },
   {
     startTime: "09:30",
@@ -61,6 +62,7 @@ const data = [
     endTime: "12:30",
     topic: "Lunch Break",
     duration: 30,
+    icon: "lunch"
   },
   {
     startTime: "12:30",
@@ -127,6 +129,7 @@ const data = [
     endTime: "15:45",
     topic: "Coffee Break",
     duration: 15,
+    icon: "coffee-break",
   },
   {
     startTime: "15:45",
@@ -194,7 +197,8 @@ const scheduleData = [{
               duration: {
                 hh: Math.floor(item.duration / 60),
                 mm: item.duration % 60
-              }
+              },
+              icon: item.icon
             }
           ]
         }

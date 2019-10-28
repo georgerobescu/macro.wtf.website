@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "Head of Research @tendermint_team Working towards secure Proof of Stake with @cosmos.",
+        "company": "Cosmos",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Milky Way Galaxy, Lanikea",
+        "featured": false,
+        "id": "zaki_manian",
+        "name": "Zaki Manian",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Head of Research @tendermint_team",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/zmanian",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Researcher & Core Dev at @Tendermint_Team/@Cosmos | Co-Founder of @SikkaTech & @CalBlockchain | Co-Host of @EpicenterBTC & @Conspiratus_",
         "company": "Cosmos",
         "companyLogo": "/images/logos/gdg-lviv.svg",

@@ -15,6 +15,14 @@ const speakersData = [
       "shortBio": ".."
   },
   {
+      "id": "charlie_smith",
+      "bio": "..",
+      "name": "Charlie Smith",
+      "company": "Reverse",
+      "socials": [],
+      "shortBio": ".."
+  },
+  {
       "id": "claire_belmont",
       "bio": "Product @CeloHQ, I aspire to empower people",
       "name": "Claire Belmont",

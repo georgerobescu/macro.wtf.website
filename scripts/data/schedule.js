@@ -150,7 +150,7 @@ const data = [
       {
         topic: "Global Cryptocurrency Adoption",
         duration: 30,
-        speakers: ["joel_monegro", "charlie", "gabrie_jimenez"]
+        speakers: ["joel_monegro", "charlie", "gabriel_jimenez"]
       },
       {
         topic: "Central Bank Digital Currency",

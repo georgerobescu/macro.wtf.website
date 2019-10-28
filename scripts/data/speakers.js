@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "🇨🇳 🇺🇸 🇸🇬 Founding Partner @PrimitiveCrypto with @wheatpond. ED @ http://Hardcore.fund. 💩 coin minimalist, 🌏 citizen, amateur 🦈 chaser. ₿uy and $ell",
+        "company": "Primitive",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Decentralized",
+        "featured": false,
+        "id": "dovey_wan",
+        "name": "Dovey Wan",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Founding Partner @PrimitiveCrypto with @wheatpond",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/DoveyWan",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Mí país es mi norte. Mí email: gabrielj1990@gmail.com",
         "company": "Petro",
         "companyLogo": "/images/logos/gdg-lviv.svg",

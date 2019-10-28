@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "Partner @placeholdervc. Your doubt is my alpha.",
+        "company": "Placeholder",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "New York, NY",
+        "featured": false,
+        "id": "joel_monegro",
+        "name": "Joel Monegro",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Partner @placeholdervc",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/jmonegro",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Head of Research @tendermint_team Working towards secure Proof of Stake with @cosmos.",
         "company": "Cosmos",
         "companyLogo": "/images/logos/gdg-lviv.svg",

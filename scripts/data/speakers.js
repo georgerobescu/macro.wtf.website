@@ -3,7 +3,7 @@ const speakersData = [
     id: "nic_carter",
     name: "Nic Carter",
     company: "Castle Island",
-    photoUrl: "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+    photoUrl: "https://pbs.twimg.com/profile_images/1049802409881481221/f_OwJ06x_400x400.jpg",
     socials: [
       {
         name: "Twitter",
@@ -16,6 +16,7 @@ const speakersData = [
     id: "tarun_chitra",
     name: "Tarun Chitra",
     company: "Gauntlet Network",
+    photoUrl: "https://pbs.twimg.com/profile_images/997541920749453313/R5PvkwMc_400x400.jpg",
     socials: [
       {
         name: "Twitter",
@@ -29,6 +30,7 @@ const speakersData = [
     name: "Joel Monegro",
     company: "Placeholder",
     bio: "Partner @placeholdervc. Your doubt is my alpha.",
+    photoUrl: "https://pbs.twimg.com/profile_images/1168619368537886729/FXfuKx7X_400x400.jpg",
     socials: [
       {
         name: "Twitter",
@@ -42,6 +44,7 @@ const speakersData = [
     name: "Shruti Appiah",
     company: "Placeholder",
     bio: "Partner @placeholdervc. Your doubt is my alpha.",
+    photoUrl: "https://pbs.twimg.com/profile_images/1179421897643188225/3rHAp_-B_400x400.jpg",
     socials: [
       {
         name: "Twitter",
@@ -83,6 +86,7 @@ const speakersData = [
   {
     id: "dovey_wan",
     name: "Dovey Wan",
+    company: "Primitive",
     photoUrl: "https://pbs.twimg.com/profile_images/3159516013/08d09f43bd78a9207621af0747e34872_400x400.jpeg",
     socials: [
       {
@@ -105,6 +109,7 @@ const speakersData = [
   {
     id: "sunny_aggarwal",
     name: "Sunny Aggarwal",
+    company: "Cosmos",
     photoUrl: "https://pbs.twimg.com/profile_images/1171047763955634176/XHT24jY__400x400.jpg",
     socials: [
       {
@@ -125,6 +130,7 @@ const speakersData = [
   {
     id: "haseeb_qureshi",
     name: "Haseeb Qureshi",
+    company: "Dragonfly Capital",
     photoUrl: "https://pbs.twimg.com/profile_images/416483818720096256/qsbpuy6P_400x400.jpeg",
     socials: [
       {
@@ -137,6 +143,7 @@ const speakersData = [
   {
     id: "michael_feng",
     name: "Michael Feng",
+    company: "Hummingbot",
     photoUrl: "https://pbs.twimg.com/profile_images/1172406542441701376/z0bpQH8N_400x400.png",
     socials: [
       {
@@ -153,6 +160,7 @@ const speakersData = [
   {
     id: "marek_olszewski",
     name: "Marek Olszewski",
+    company: "Celo",
     photoUrl: "https://pbs.twimg.com/profile_images/3304005600/127d11d248f4104bb075fd156dd2e911_400x400.jpeg",
     socials: [{
             icon: "twitter",

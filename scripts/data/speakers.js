@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "BUIDLING @hashflownetwork",
+        "company": "Hashflow",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "San Francisco, CA",
+        "featured": false,
+        "id": "varun_vruddhula",
+        "name": "Varun Vruddhula",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/GandalfTheBr0wn",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Product @CeloHQ, I aspire to empower people",
         "company": "Celo",
         "companyLogo": "/images/logos/gdg-lviv.svg",

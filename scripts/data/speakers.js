@@ -1,5 +1,417 @@
 const speakersData = [
     {
+        "bio": "Skeptical optimist. Founding partner @1kxNetwork. Show me the incentive and I will show you the outcome.",
+        "company": "1kx",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Decentraland",
+        "featured": false,
+        "id": "lasse_clausen",
+        "name": "Lasse Clausen",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Founding partner @1kxNetwork",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/lalleclausen",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "🇨🇳 🇺🇸 🇸🇬 Founding Partner @PrimitiveCrypto with @wheatpond. ED @ http://Hardcore.fund. 💩 coin minimalist, 🌏 citizen, amateur 🦈 chaser. ₿uy and $ell",
+        "company": "Primitive",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Decentralized",
+        "featured": false,
+        "id": "dovey_wan",
+        "name": "Dovey Wan",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Founding Partner @PrimitiveCrypto with @wheatpond",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/DoveyWan",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Mí país es mi norte. Mí email: gabrielj1990@gmail.com",
+        "company": "Petro",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Venezuela",
+        "featured": false,
+        "id": "gabriel_jiménez",
+        "name": "Gabriel Jiménez",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/gabrieljimenezm",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Partner @placeholdervc. Your doubt is my alpha.",
+        "company": "Placeholder",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "New York, NY",
+        "featured": false,
+        "id": "joel_monegro",
+        "name": "Joel Monegro",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Partner @placeholdervc",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/jmonegro",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Head of Research @tendermint_team Working towards secure Proof of Stake with @cosmos.",
+        "company": "Cosmos",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Milky Way Galaxy, Lanikea",
+        "featured": false,
+        "id": "zaki_manian",
+        "name": "Zaki Manian",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Head of Research @tendermint_team",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/zmanian",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Researcher & Core Dev at @Tendermint_Team/@Cosmos | Co-Founder of @SikkaTech & @CalBlockchain | Co-Host of @EpicenterBTC & @Conspiratus_",
+        "company": "Cosmos",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Bridgewater, NJ",
+        "featured": false,
+        "id": "sunny_aggarwal",
+        "name": "Sunny Aggarwal",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Researcher & Core Dev at Cosmos",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/sunnya97",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "...",
+        "company": "Cosmos",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "...",
+        "featured": false,
+        "id": "brent_xu",
+        "name": "Brent Xu",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/brent-xu-徐冠宇-ba698315",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "EECS student @UCBerkeley Doing Blockchain stuff with @cosmos and @CalBlockchain. Big fan of cryptography, game theory / mechanism design, and P2P systems.",
+        "company": "Blockchain at Berkeley",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Berkeley, CA",
+        "featured": false,
+        "id": "jeremiah_andrews",
+        "name": "Jeremiah Andrews",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "EECS student of Berkeley",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/jlandrews0",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Co-founder of @CeloHQ. Previously co-founder of @LocuInc (sold to @GoDaddy). @MIT CSAIL PhD Dropout.",
+        "company": "Celo",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Warsaw, Poland",
+        "featured": false,
+        "id": "marek_olszewski",
+        "name": "Marek Olszewski",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Co-founder of Celo",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/marekolszewski",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Economics Professor at @VanderbiltU & @Geeq co-founder teaching #Blockchain #CloudComputing #CryptoEconomics #IoT . Read my papers on jpc@jpconley.com",
+        "company": "Vanderbilt University",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Nashville, TN",
+        "featured": false,
+        "id": "john_p_conley",
+        "name": "John P. Conley",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Professor of Economics, Vanderbilt University",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/John_P_Conley",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "BUIDLING @hashflownetwork",
+        "company": "Hashflow",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "San Francisco, CA",
+        "featured": false,
+        "id": "varun_vruddhula",
+        "name": "Varun Vruddhula",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/GandalfTheBr0wn",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Product @CeloHQ, I aspire to empower people",
+        "company": "Celo",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Decentralized",
+        "featured": false,
+        "id": "claire_belmont",
+        "name": "Claire Belmont",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Product of Celo",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/clairebelmont",
+                "name": "Twitter"
+            }, {
+                "icon": "linkedin",
+                "link": "https://uk.linkedin.com/in/clairebelmont",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "...",
+        "company": "Interfluidity",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Warsaw, Poland",
+        "featured": false,
+        "id": "steve_randy_waldman",
+        "name": "Steve Randy Waldman",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/interfluidity",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Research @polychain, Tilt // Airbnb, Webmail // Rackspace, YC ‘12. Optimist. Not investment advice.",
+        "company": "Polychain",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "NY/SF",
+        "featured": false,
+        "id": "will_wolf",
+        "name": "Will Wolf",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Research of polychain",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/throughnothing",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Founder @ Summa (@summa_one) | Curry Enthusiast | Voted Best Hair in Ethereum 2019",
+        "company": "Summa",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "San Francisco, CA",
+        "featured": false,
+        "id": "james_prestwich",
+        "name": "James Prestwich",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Founder of Summa",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/_prestwich",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Executive Director @ConsenSysLLC |@EntEthAlliance |@ethereum4impact | Founding Chair NEXUS Impact Investing Group & Chair Blockchain labs #impinv",
+        "company": "Consensys",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Manhattan, NY",
+        "featured": false,
+        "id": "vanessa_grellet",
+        "name": "Vanessa Grellet",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/VanessaGrellet_",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
+        "bio": "Co-Founder Blockchain Opportunity Fund | Co-Founder Blockware Solutions | Loom Validator: https://blockwarepool.com/loom Canslim/Trend Following/Livermore",
+        "company": "Blockchain Opportunity Fund",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Warsaw, Poland",
+        "featured": false,
+        "id": "matt_dsouza",
+        "name": "Matt D'Souza",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/mjdsouza2",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "...",
         "company": "Castle Island",
         "companyLogo": "/images/logos/gdg-lviv.svg",

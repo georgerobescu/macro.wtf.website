@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "EECS student @UCBerkeley Doing Blockchain stuff with @cosmos and @CalBlockchain. Big fan of cryptography, game theory / mechanism design, and P2P systems.",
+        "company": "Blockchain at Berkeley",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Berkeley, CA",
+        "featured": false,
+        "id": "jeremiah_andrews",
+        "name": "Jeremiah Andrews",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "EECS student of Berkeley",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/jlandrews0",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Co-founder of @CeloHQ. Previously co-founder of @LocuInc (sold to @GoDaddy). @MIT CSAIL PhD Dropout.",
         "company": "Celo",
         "companyLogo": "/images/logos/gdg-lviv.svg",

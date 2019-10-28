@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "Executive Director @ConsenSysLLC |@EntEthAlliance |@ethereum4impact | Founding Chair NEXUS Impact Investing Group & Chair Blockchain labs #impinv",
+        "company": "Consensys",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Manhattan, NY",
+        "featured": false,
+        "id": "vanessa_grellet",
+        "name": "Vanessa Grellet",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/VanessaGrellet_",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Co-Founder Blockchain Opportunity Fund | Co-Founder Blockware Solutions | Loom Validator: https://blockwarepool.com/loom Canslim/Trend Following/Livermore",
         "company": "Blockchain Opportunity Fund",
         "companyLogo": "/images/logos/gdg-lviv.svg",

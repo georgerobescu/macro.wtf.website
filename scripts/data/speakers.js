@@ -1,7 +1,7 @@
 const speakersData = [
   {
       "id": "brent_xu",
-      "bio": "...",
+      "bio": "Managing strategy @tendermint_team; Building on @cosmos. Long time #Ethereum supporter & early alum of @consensys. I help out from time to time @whiteblock.",
       "name": "Brent Xu",
       "company": "Cosmos",
       "socials": [
@@ -12,7 +12,7 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/997667356234133504/Y9Iwd5hg_400x400.jpg",
-      "shortBio": ".."
+      "shortBio": "Managing strategy @tendermint_team"
   },
   {
       "id": "charlie_smith",
@@ -40,7 +40,7 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/1135261302996197377/bJGmaSEj_400x400.jpg",
-      "shortBio": "Product of Celo"
+      "shortBio": "Product @CeloHQ"
   },
   {
       "id": "dovey_wan",
@@ -84,7 +84,7 @@ const speakersData = [
   },
   {
       "id": "haseeb_qureshi",
-      "bio": "..",
+      "bio": "Managing partner @dragonfly_cap. Formerly Metastable, @Airbnb, @earndotcom. Effective Altruist. Writer. Former poker pro. One always finds one's burden again.",
       "name": "Haseeb Qureshi",
       "company": "Dragonfly Capital",
       "socials": [
@@ -95,7 +95,7 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/416483818720096256/qsbpuy6P_400x400.jpeg",
-      "shortBio": ".."
+      "shortBio": "Managing partner @dragonfly_cap"
   },
   {
       "id": "james_preswich",
@@ -115,7 +115,7 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/968714871893385216/gxB-WOJW_400x400.jpg",
-      "shortBio": "Founder of Summa"
+      "shortBio": "Founder @ Summa"
   },
   {
       "id": "jeremiah_andrews",
@@ -135,7 +135,7 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/916359074890919936/7UkqNNCF_400x400.jpg",
-      "shortBio": "EECS student of Berkeley"
+      "shortBio": "EECS student @UCBerkeley"
   },
   {
       "id": "joel_monegro",
@@ -205,7 +205,7 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/3304005600/127d11d248f4104bb075fd156dd2e911_400x400.jpeg",
-      "shortBio": "Co-founder of Celo"
+      "shortBio": "Co-founder of @CeloHQ"
   },
   {
       "id": "matt_dsouza",
@@ -225,11 +225,11 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/863637847785340929/-PbYdYga_400x400.jpg",
-      "shortBio": ".."
+      "shortBio": "Co-Founder Blockchain Opportunity Fund"
   },
   {
       "id": "michael_feng",
-      "bio": "..",
+      "bio": "ceo of @hummingbot_io, adventure gamer, hoops brick-layer. #GoGators",
       "name": "Michael Feng",
       "company": "Hummingbot",
       "socials": [
@@ -245,11 +245,11 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/1172406542441701376/z0bpQH8N_400x400.png",
-      "shortBio": ".."
+      "shortBio": "ceo of @hummingbot_io"
   },
   {
       "id": "nic_carter",
-      "bio": "...",
+      "bio": "serf in Jack's feudal kingdom",
       "name": "Nic Carter",
       "company": "Castle Island",
       "socials": [
@@ -289,7 +289,7 @@ const speakersData = [
   },
   {
       "id": "steve_waldman",
-      "bio": "...",
+      "bio": "Interfluidity",
       "name": "Steve Waldman",
       "company": "Interfluidity",
       "socials": [
@@ -300,7 +300,7 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/658296178719633408/CgmJFg3a_400x400.jpg",
-      "shortBio": ".."
+      "shortBio": "Interfluidity"
   },
   {
       "id": "sunny_aggarwal",
@@ -325,11 +325,11 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/1171047763955634176/XHT24jY__400x400.jpg",
-      "shortBio": "Researcher & Core Dev @ Cosmos"
+      "shortBio": "Researcher & Core Dev at @Tendermint_Team/@Cosmos"
   },
   {
       "id": "tarun_chitra",
-      "bio": "...",
+      "bio": "Current: ヽ(⌐■_■)ノ♪♬ @ @GauntletNetwork // Past: ¯\_(ツ)_/¯ @ HFT/@DEShawGroup [Research]/@cornell // I also founded the NYC Salon // http://nycsalon.fun",
       "name": "Tarun Chitra",
       "company": "Gauntlet Network",
       "socials": [
@@ -340,11 +340,11 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/997541920749453313/R5PvkwMc_400x400.jpg",
-      "shortBio": ".."
+      "shortBio": "ヽ(⌐■_■)ノ♪♬ @ @GauntletNetwork"
   },
   {
       "id": "tina_zhen",
-      "bio": "..",
+      "bio": "Mining surplus human capital. Curator of http://DeFi.WTF. Co-creator of LSDai, http://Hashedge.io & CoinCow. Hackathon winner @Polkadot, @ETHBerlin, @ETHSingapor & EOS SF.",
       "name": "Tina Zhen",
       "company": "Applause",
       "socials": [
@@ -365,7 +365,7 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/1177965467572428800/mWBN6yqP_400x400.jpg",
-      "shortBio": ".."
+      "shortBio": "Curator of http://DeFi.WTF"
   },
   {
       "id": "vanessa_grellet",
@@ -385,7 +385,7 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/1128709071316688897/328Zxq4N_400x400.jpg",
-      "shortBio": ".."
+      "shortBio": "Executive Director @ConsenSysLLC"
   },
   {
       "id": "varun_vruddhula",
@@ -400,7 +400,7 @@ const speakersData = [
           }
       ],
       "photoUrl": "https://pbs.twimg.com/profile_images/1102767609445924864/sOkZLK4D_400x400.jpg",
-      "shortBio": ".."
+      "shortBio": "BUIDLING @hashflownetwork"
   },
   {
       "id": "will_wolf",

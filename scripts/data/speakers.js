@@ -144,30 +144,6 @@ const speakersData = [
         "title": ""
     },
     {
-        "bio": "Co-founder of @CeloHQ. Previously co-founder of @LocuInc (sold to @GoDaddy). @MIT CSAIL PhD Dropout.",
-        "company": "Celo",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-        "country": "Warsaw, Poland",
-        "featured": false,
-        "id": "marek_olszewski",
-        "name": "Marek Olszewski",
-        "order": 1,
-        "photo": "/images/people/tina_zhen.jpg",
-        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
-        "sessions": [
-        ],
-        "shortBio": "Co-founder of Celo",
-        "socials": [{
-                "icon": "twitter",
-                "link": "https://twitter.com/marekolszewski",
-                "name": "Twitter"
-            }
-        ],
-        "tags": ["Web"],
-        "title": ""
-    },
-    {
         "bio": "Economics Professor at @VanderbiltU & @Geeq co-founder teaching #Blockchain #CloudComputing #CryptoEconomics #IoT . Read my papers on jpc@jpconley.com",
         "company": "Vanderbilt University",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -708,11 +684,11 @@ const speakersData = [
     "title": "Yellow Hat"
   },
   {
-    "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-    "company": "Applause",
+    "bio": "Co-founder of @CeloHQ. Previously co-founder of @LocuInc (sold to @GoDaddy). @MIT CSAIL PhD Dropout.",
+    "company": "Celo",
     "companyLogo": "/images/logos/gdg-lviv.svg",
     "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-    "country": "Warsaw, Poland",
+    "country": "...",
     "featured": false,
     "id": "marek_olszewski",
     "name": "Marek Olszewski",
@@ -721,15 +697,11 @@ const speakersData = [
     "photoUrl": "https://pbs.twimg.com/profile_images/3304005600/127d11d248f4104bb075fd156dd2e911_400x400.jpeg",
     "sessions": [
     ],
-    "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+    "shortBio": "Co-founder of Celo",
     "socials": [{
             "icon": "twitter",
             "link": "https://twitter.com/marekolszewski",
             "name": "Twitter"
-        }, {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/sunnya97",
-            "name": "Facebook"
         }, {
             "icon": "linkedin",
             "link": "https://www.linkedin.com/in/marekolszewski/",

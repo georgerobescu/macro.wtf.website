@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "Mí país es mi norte. Mí email: gabrielj1990@gmail.com",
+        "company": "Petro",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Venezuela",
+        "featured": false,
+        "id": "gabriel_jiménez",
+        "name": "Gabriel Jiménez",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/gabrieljimenezm",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Partner @placeholdervc. Your doubt is my alpha.",
         "company": "Placeholder",
         "companyLogo": "/images/logos/gdg-lviv.svg",

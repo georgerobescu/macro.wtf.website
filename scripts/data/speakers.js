@@ -96,30 +96,6 @@ const speakersData = [
         "title": ""
     },
     {
-        "bio": "Researcher & Core Dev at @Tendermint_Team/@Cosmos | Co-Founder of @SikkaTech & @CalBlockchain | Co-Host of @EpicenterBTC & @Conspiratus_",
-        "company": "Cosmos",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-        "country": "Bridgewater, NJ",
-        "featured": false,
-        "id": "sunny_aggarwal",
-        "name": "Sunny Aggarwal",
-        "order": 1,
-        "photo": "/images/people/tina_zhen.jpg",
-        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
-        "sessions": [
-        ],
-        "shortBio": "Researcher & Core Dev at Cosmos",
-        "socials": [{
-                "icon": "twitter",
-                "link": "https://twitter.com/sunnya97",
-                "name": "Twitter"
-            }
-        ],
-        "tags": ["Web"],
-        "title": ""
-    },
-    {
         "bio": "...",
         "company": "Cosmos",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -647,11 +623,11 @@ const speakersData = [
     "title": "Yellow Hat"
   },
   {
-    "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-    "company": "Applause",
+    "bio": "Researcher & Core Dev at @Tendermint_Team/@Cosmos | Co-Founder of @SikkaTech & @CalBlockchain | Co-Host of @EpicenterBTC & @Conspiratus_",
+    "company": "Cosmos",
     "companyLogo": "/images/logos/gdg-lviv.svg",
     "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-    "country": "Warsaw, Poland",
+    "country": "Bridgewater, NJ",
     "featured": false,
     "id": "sunny_aggarwal",
     "name": "Sunny Aggarwal",
@@ -660,7 +636,7 @@ const speakersData = [
     "photoUrl": "https://pbs.twimg.com/profile_images/1171047763955634176/XHT24jY__400x400.jpg",
     "sessions": [
     ],
-    "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+    "shortBio": "Researcher & Core Dev @ Cosmos",
     "socials": [{
             "icon": "twitter",
             "link": "https://twitter.com/sunnya97",

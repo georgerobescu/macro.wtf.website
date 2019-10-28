@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "...",
+        "company": "Cosmos",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "...",
+        "featured": false,
+        "id": "brent_xu",
+        "name": "Brent Xu",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/brent-xu-徐冠宇-ba698315",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "EECS student @UCBerkeley Doing Blockchain stuff with @cosmos and @CalBlockchain. Big fan of cryptography, game theory / mechanism design, and P2P systems.",
         "company": "Blockchain at Berkeley",
         "companyLogo": "/images/logos/gdg-lviv.svg",

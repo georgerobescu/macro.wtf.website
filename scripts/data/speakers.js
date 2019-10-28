@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "Co-founder of @CeloHQ. Previously co-founder of @LocuInc (sold to @GoDaddy). @MIT CSAIL PhD Dropout.",
+        "company": "Celo",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Warsaw, Poland",
+        "featured": false,
+        "id": "marek_olszewski",
+        "name": "Marek Olszewski",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Co-founder of Celo",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/marekolszewski",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Economics Professor at @VanderbiltU & @Geeq co-founder teaching #Blockchain #CloudComputing #CryptoEconomics #IoT . Read my papers on jpc@jpconley.com",
         "company": "Vanderbilt University",
         "companyLogo": "/images/logos/gdg-lviv.svg",

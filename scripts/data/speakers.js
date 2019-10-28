@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "Economics Professor at @VanderbiltU & @Geeq co-founder teaching #Blockchain #CloudComputing #CryptoEconomics #IoT . Read my papers on jpc@jpconley.com",
+        "company": "Vanderbilt University",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Nashville, TN",
+        "featured": false,
+        "id": "john_p_conley",
+        "name": "John P. Conley",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Professor of Economics, Vanderbilt University",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/John_P_Conley",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "BUIDLING @hashflownetwork",
         "company": "Hashflow",
         "companyLogo": "/images/logos/gdg-lviv.svg",

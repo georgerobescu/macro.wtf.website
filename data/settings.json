@@ -9,8 +9,8 @@
   "endDate": "2019-10-20T18:00:00+08:00",
   "webapp": {
     "shortName": "Crosslink19",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "themeColor": "#2233ff",
+    "backgroundColor": "#2233ff"
   },
   "dateFormat": {
     "locale": "zh-TW"
@@ -44,7 +44,7 @@
     "home": {
       "description": "One More Round of Cross Asia-rd Communication",
       "background": {
-        "color": "#673ab7",
+        "color": "#2233ff",
         "image": "/images/backgrounds/home.png"
       },
       "fontColor": "#FFF"

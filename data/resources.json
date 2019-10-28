@@ -1,8 +1,8 @@
 {
   "title": "Macro.WTF",
-  "description": "An Ethereum Event in Taipei, Taiwan",
+  "description": "the Power of Asking",
   "image": "images/social-share.jpg",
-  "keywords": "event, eth, ethereum, developers",
+  "keywords": "event, DeFi",
   "dates": "October 30, 2019",
   "partnershipProposition": "",
   "share": "Share",
@@ -36,8 +36,8 @@
       "title": "About",
       "links": [
         {
-          "name": "Taipei Ethereum Meetup",
-          "url": "https://ethertw.github.io/eth.taipei/",
+          "name": "DeFi.WTF",
+          "url": "https://medium.com/wtf-dao/",
           "newTab": true
         }
       ]
@@ -162,7 +162,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Taipei Ethereum Meetup is a Taiwan-based local meetup to support blockchain technical research, development, and community. We wish to crosslink the Taiwanese community to the global ecosystem."
+    "description": "Macro.WTF, the power of asking."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"

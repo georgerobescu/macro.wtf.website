@@ -424,7 +424,6 @@ const sessionsActions = {
 
 const scheduleActions = {
   fetchSchedule: () => (dispatch) => {
-
     dispatch({
       type: FETCH_SCHEDULE_SUCCESS,
       data: scheduleData.sort((a, b) => a.date.localeCompare(b.date)),

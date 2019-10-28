@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "...",
+        "company": "Interfluidity",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "Warsaw, Poland",
+        "featured": false,
+        "id": "steve_randy_waldman",
+        "name": "Steve Randy Waldman",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "..",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/interfluidity",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Research @polychain, Tilt // Airbnb, Webmail // Rackspace, YC ‘12. Optimist. Not investment advice.",
         "company": "Polychain",
         "companyLogo": "/images/logos/gdg-lviv.svg",

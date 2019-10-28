@@ -24,30 +24,6 @@ const speakersData = [
         "title": ""
     },
     {
-        "bio": "🇨🇳 🇺🇸 🇸🇬 Founding Partner @PrimitiveCrypto with @wheatpond. ED @ http://Hardcore.fund. 💩 coin minimalist, 🌏 citizen, amateur 🦈 chaser. ₿uy and $ell",
-        "company": "Primitive",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-        "country": "Decentralized",
-        "featured": false,
-        "id": "dovey_wan",
-        "name": "Dovey Wan",
-        "order": 1,
-        "photo": "/images/people/tina_zhen.jpg",
-        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
-        "sessions": [
-        ],
-        "shortBio": "Founding Partner @PrimitiveCrypto with @wheatpond",
-        "socials": [{
-                "icon": "twitter",
-                "link": "https://twitter.com/DoveyWan",
-                "name": "Twitter"
-            }
-        ],
-        "tags": ["Web"],
-        "title": ""
-    },
-    {
         "bio": "Mí país es mi norte. Mí email: gabrielj1990@gmail.com",
         "company": "Petro",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -120,30 +96,6 @@ const speakersData = [
         "title": ""
     },
     {
-        "bio": "Researcher & Core Dev at @Tendermint_Team/@Cosmos | Co-Founder of @SikkaTech & @CalBlockchain | Co-Host of @EpicenterBTC & @Conspiratus_",
-        "company": "Cosmos",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-        "country": "Bridgewater, NJ",
-        "featured": false,
-        "id": "sunny_aggarwal",
-        "name": "Sunny Aggarwal",
-        "order": 1,
-        "photo": "/images/people/tina_zhen.jpg",
-        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
-        "sessions": [
-        ],
-        "shortBio": "Researcher & Core Dev at Cosmos",
-        "socials": [{
-                "icon": "twitter",
-                "link": "https://twitter.com/sunnya97",
-                "name": "Twitter"
-            }
-        ],
-        "tags": ["Web"],
-        "title": ""
-    },
-    {
         "bio": "...",
         "company": "Cosmos",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -185,30 +137,6 @@ const speakersData = [
         "socials": [{
                 "icon": "twitter",
                 "link": "https://twitter.com/jlandrews0",
-                "name": "Twitter"
-            }
-        ],
-        "tags": ["Web"],
-        "title": ""
-    },
-    {
-        "bio": "Co-founder of @CeloHQ. Previously co-founder of @LocuInc (sold to @GoDaddy). @MIT CSAIL PhD Dropout.",
-        "company": "Celo",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-        "country": "Warsaw, Poland",
-        "featured": false,
-        "id": "marek_olszewski",
-        "name": "Marek Olszewski",
-        "order": 1,
-        "photo": "/images/people/tina_zhen.jpg",
-        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
-        "sessions": [
-        ],
-        "shortBio": "Co-founder of Celo",
-        "socials": [{
-                "icon": "twitter",
-                "link": "https://twitter.com/marekolszewski",
                 "name": "Twitter"
             }
         ],
@@ -639,11 +567,11 @@ const speakersData = [
     "title": "Yellow Hat"
   },
   {
-    "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-    "company": "Applause",
+    "bio": "Founding Partner @PrimitiveCrypto with @wheatpond. ED @ http://Hardcore.fund. 💩 coin minimalist, 🌏 citizen, amateur 🦈 chaser. ₿uy and $ell",
+    "company": "Primitive",
     "companyLogo": "/images/logos/gdg-lviv.svg",
     "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-    "country": "Warsaw, Poland",
+    "country": "Decentralized",
     "featured": false,
     "id": "dovey_wan",
     "name": "Dovey Wan",
@@ -652,7 +580,7 @@ const speakersData = [
     "photoUrl": "https://pbs.twimg.com/profile_images/3159516013/08d09f43bd78a9207621af0747e34872_400x400.jpeg",
     "sessions": [
     ],
-    "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+    "shortBio": "Founding Partner @PrimitiveCrypto with @wheatpond",
     "socials": [{
             "icon": "twitter",
             "link": "https://twitter.com/DoveyWan",
@@ -671,11 +599,11 @@ const speakersData = [
     "title": "Yellow Hat"
   },
   {
-    "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-    "company": "Applause",
+    "bio": "Researcher & Core Dev at @Tendermint_Team/@Cosmos | Co-Founder of @SikkaTech & @CalBlockchain | Co-Host of @EpicenterBTC & @Conspiratus_",
+    "company": "Cosmos",
     "companyLogo": "/images/logos/gdg-lviv.svg",
     "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-    "country": "Warsaw, Poland",
+    "country": "Bridgewater, NJ",
     "featured": false,
     "id": "sunny_aggarwal",
     "name": "Sunny Aggarwal",
@@ -684,7 +612,7 @@ const speakersData = [
     "photoUrl": "https://pbs.twimg.com/profile_images/1171047763955634176/XHT24jY__400x400.jpg",
     "sessions": [
     ],
-    "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+    "shortBio": "Researcher & Core Dev @ Cosmos",
     "socials": [{
             "icon": "twitter",
             "link": "https://twitter.com/sunnya97",
@@ -756,11 +684,11 @@ const speakersData = [
     "title": "Yellow Hat"
   },
   {
-    "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-    "company": "Applause",
+    "bio": "Co-founder of @CeloHQ. Previously co-founder of @LocuInc (sold to @GoDaddy). @MIT CSAIL PhD Dropout.",
+    "company": "Celo",
     "companyLogo": "/images/logos/gdg-lviv.svg",
     "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-    "country": "Warsaw, Poland",
+    "country": "...",
     "featured": false,
     "id": "marek_olszewski",
     "name": "Marek Olszewski",
@@ -769,15 +697,11 @@ const speakersData = [
     "photoUrl": "https://pbs.twimg.com/profile_images/3304005600/127d11d248f4104bb075fd156dd2e911_400x400.jpeg",
     "sessions": [
     ],
-    "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+    "shortBio": "Co-founder of Celo",
     "socials": [{
             "icon": "twitter",
             "link": "https://twitter.com/marekolszewski",
             "name": "Twitter"
-        }, {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/sunnya97",
-            "name": "Facebook"
         }, {
             "icon": "linkedin",
             "link": "https://www.linkedin.com/in/marekolszewski/",

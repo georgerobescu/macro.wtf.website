@@ -1,5 +1,29 @@
 const speakersData = [
     {
+        "bio": "Research @polychain, Tilt // Airbnb, Webmail // Rackspace, YC ‘12. Optimist. Not investment advice.",
+        "company": "Polychain",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "country": "NY/SF",
+        "featured": false,
+        "id": "will_wolf",
+        "name": "Will Wolf",
+        "order": 1,
+        "photo": "/images/people/tina_zhen.jpg",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
+        "sessions": [
+        ],
+        "shortBio": "Research of polychain",
+        "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/throughnothing",
+                "name": "Twitter"
+            }
+        ],
+        "tags": ["Web"],
+        "title": ""
+    },
+    {
         "bio": "Founder @ Summa (@summa_one) | Curry Enthusiast | Voted Best Hair in Ethereum 2019",
         "company": "Summa",
         "companyLogo": "/images/logos/gdg-lviv.svg",

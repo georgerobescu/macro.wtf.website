@@ -582,7 +582,7 @@ const speakersData = [
       "socials": [
           {
               "icon": "twitter",
-              "link": "https://twitter.com/willwolf_",
+              "link": "https://twitter.com/throughnothing",
               "name": "Twitter"
           },
           {

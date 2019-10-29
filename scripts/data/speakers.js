@@ -1,4 +1,154 @@
 const speakersData = [
+    {
+        "id": "jae_kwon",
+        "bio": "Cosmos is here.  BFT proof of stake with Tendermint, Internet of Blockchains.  How do we solve climate change?",
+        "name": "Jae Kwon",
+        "company": "Cosmos",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/jaekwon",
+                "name": "Twitter"
+            }
+        ],
+        "photoUrl": "https://pbs.twimg.com/profile_images/974343422197817349/UOPc6vHe_400x400.jpg",
+        "shortBio": "Cosmos"
+    },
+    {
+        "id": "lily_liu",
+        "bio": "Ex: @earndotcom, @KKR_Co, @McKinsey, @Stanford, @Harvard. 5 years in China.",
+        "name": "Lily Liu",
+        "company": "Independent",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/calilyliu",
+                "name": "Twitter"
+            }
+        ],
+        "photoUrl": "https://pbs.twimg.com/profile_images/432677761011159040/N4hUsNjB_400x400.jpeg",
+        "shortBio": "Ex: @earndotcom, @KKR_Co, @McKinsey, @Stanford, @Harvard. 5 years in China."
+    },
+    {
+        "id": "nevin_freeman",
+        "bio": "Co-Founder - Reserve",
+        "name": "Nevin Freeman",
+        "company": "Reserve",
+        "socials": [
+            {
+                "icon": "linkedIn",
+                "link": "https://www.linkedin.com/in/nevinfreeman",
+                "name": "LinkedIn"
+            }
+        ],
+        "photoUrl": "https://res.heraldm.com/phpwas/restmb_idxmake.php?idx=142&simg=%2Fcontent%2Fimage%2F2018%2F09%2F19%2F20180919000339_0.jpg",
+        "shortBio": "Co-Founder - Reserve"
+    },
+    {
+        "id": "jill_carlson",
+        "bio": "I am a co-founder of the Open Money Initiative, a non-profit research organization working to guarantee the right to a free and open financial system.",
+        "name": "Jill Carlson",
+        "company": "Open Money Initiative",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "http://jill-carlson.com/",
+                "name": "Twitter"
+            }
+        ],
+        "photoUrl": "http://jill-carlson.com/wp-content/uploads/2019/03/cropped-Jill_Carlson-3-3.jpg",
+        "shortBio": "co-founder of the Open Money Initiative"
+    },
+    {
+        "id": "qiao_wang",
+        "bio": "Mathematician. Engineer. Trader. Building @MessariCrypto. A decade in each of China, francophone Canada, and the US.",
+        "name": "Qiao Wang",
+        "company": "Messari",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/qwqiao",
+                "name": "Twitter"
+            }
+        ],
+        "photoUrl": "https://pbs.twimg.com/profile_images/1064003929485254656/-ktJcHQU_400x400.jpg",
+        "shortBio": "Building @MessariCrypto"
+    },
+    {
+        "id": "arjun_balaji",
+        "bio": "@paradigm. into technology history, strategy games, boston sports",
+        "name": "Arjun Balaji",
+        "company": "Paradigm",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/arjunblj",
+                "name": "Twitter"
+            }
+        ],
+        "photoUrl": "https://pbs.twimg.com/profile_images/612397594455707652/7mn8Wt9i_400x400.jpg",
+        "shortBio": "Paradigm"
+    },
+    {
+        "id": "tom_kineshanko",
+        "bio": "Founder/Partner @protosfund. Seed/A/ICO investor in 45 bitcoin / web 3 startups since ‘13 (eth, xrp, bnb, etcetera) that went on to create 45B in market value",
+        "name": "Tom Kineshanko",
+        "company": "Protos Asset Management",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/kineshanko",
+                "name": "Twitter"
+            }
+        ],
+        "photoUrl": "https://pbs.twimg.com/profile_images/1117134039972896768/pfGlAP9i_400x400.jpg",
+        "shortBio": "Founder/Partner @protosfund"
+    },
+    {
+        "id": "balaji_s_srinivasan",
+        "bio": "Angel investor. Cofounder of Earn, Counsyl, Teleport, Coin Center. Previously CTO of Coinbase, GP a16z. I hear this Bitcoin thing might be kind of a big deal.",
+        "name": "Balaji S. Srinivasan",
+        "company": "Coinbase",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/balajis",
+                "name": "Twitter"
+            }
+        ],
+        "photoUrl": "https://pbs.twimg.com/profile_images/422242769747193856/0ISaDb4__400x400.png",
+        "shortBio": "Angel investor."
+    },
+    {
+        "id": "don_tapscott",
+        "bio": "Media theorist. Author. Adjunct Professor. Hammond B3 player. Co-founder of the @BlockchainRI.",
+        "name": "Don Tapscott",
+        "company": "BlockchainRI",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/dtapscott",
+                "name": "Twitter"
+            }
+        ],
+        "photoUrl": "https://pbs.twimg.com/profile_images/540087087026806784/AR6gxlbP_400x400.jpeg",
+        "shortBio": "Co-founder of the @BlockchainRI."
+    },
+    {
+        "id": "charlie_noyes",
+        "bio": "@paradigm",
+        "name": "Charlie Noyes",
+        "company": "Paradigm",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/_charlienoyes",
+                "name": "Twitter"
+            }
+        ],
+        "photoUrl": "https://pbs.twimg.com/profile_images/1133058338273447948/dov_5qc7_400x400.png",
+        "shortBio": "Paradigm"
+    },
   {
       "id": "brent_xu",
       "bio": "Managing strategy @tendermint_team; Building on @cosmos. Long time #Ethereum supporter & early alum of @consensys. I help out from time to time @whiteblock.",

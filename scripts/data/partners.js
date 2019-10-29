@@ -1,7 +1,7 @@
 const partnersData = [
   {
     "order": 0,
-    "title": "Sponsor Organizations",
+    "title": "Socrates",
     "id": "sponsor_org",
     "items": [
       {
@@ -10,7 +10,14 @@ const partnersData = [
         "order": 0,
         "url": "https://www.paradigm.xyz/",
         "id": "paradigm"
-      },
+      }
+    ]
+  },  
+  {
+    "order": 1,
+    "title": "Plato",
+    "id": "sponsor_org",
+    "items": [
       {
         "logoUrl": "../images/partners/bxf_crypto.png",
         "name": "BXF Crypto",
@@ -23,7 +30,14 @@ const partnersData = [
         "order": 2,
         "url": "https://www.hashkey.com/",
         "id": "hashkey_captial"
-      },
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "title": "Plato",
+    "id": "sponsor_org",
+    "items": [
       {
         "logoUrl": "../images/partners/nervos.png",
         "name": "Nervos",
@@ -39,5 +53,5 @@ const partnersData = [
         "id": "celo"
       }
     ]
-  }
+  }  
 ];

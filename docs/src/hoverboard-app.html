@@ -26644,9 +26644,9 @@ const speakersActions = {
     dispatch({
       type: FETCH_SPEAKERS_SUCCESS,
       payload: {
-        obj: speakersData.sort((x, y) => (x.id > y.id) - (x.id < y.id)).reduce((acc, curr) =>
+        obj: speakersData.reduce((acc, curr) =>
           Object.assign({}, acc, { [curr.id]: curr }), {}),
-        list: speakersData,
+        list: speakersData.sort((x, y) => (x.id > y.id) - (x.id < y.id)),
       },
     });
   },
@@ -33300,7 +33300,7 @@ h=k[0],f,q;"auto"==g?g=t():v&&(g=t(parseInt(g)));var w;z&&b.useNativeClamp?(e.ov
               "name": "LinkedIn"
           }
       ],
-      "photoUrl": "https://pbs.twimg.com/profile_images/664936286512218112/vVSznk-9_400x400.jpg",
+      "photoUrl": "https://pbs.twimg.com/profile_images/733728436183793669/lTetRd89_400x400.jpg",
       "shortBio": "Research of polychain"
   },
   {

@@ -182,7 +182,7 @@ const data = [
           "- Government takeover of Petro"
         ],
         duration: 30,
-        speakers: ["qiao_wang", "jill_carlson", "navin_freeman", "gabriel_jimenez", "joel_monegro"]
+        speakers: ["qiao_wang", "jill_carlson", "nevin_freeman", "gabriel_jimenez", "joel_monegro"]
       },
       {
         topic: "Central Bank Digital Currency",

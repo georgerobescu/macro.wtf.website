@@ -1,5 +1,20 @@
 const speakersData = [
     {
+        "id": "nicolas_andreoulis",
+        "bio": "Nicolas has an MSc in Economics from UCL (University College London). He has been especially interested in Econometrics and Macroeconomics, with a particular focus on the impact evaluation of macroeconomics policies. Before coming to Princeton, Nicolas worked as a research and teaching assistant at the London School of Economics and the Institute of Fiscal Studies.",
+        "name": "Nicolas Andreoulis",
+        "company": "University College London",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/nicolas-andreoulis-013b2756",
+                "name": "Linkedin"
+            }
+        ],
+        "photoUrl": "https://jrc.princeton.edu/sites/jrc/files/styles/pwds_people_full/public/people/andreoulis_nikolaos_photo_final.jpg?itok=gYwWjML6",
+        "shortBio": "Nicolas has an MSc in Economics from UCL (University College London)"
+    },
+    {
         "id": "baek_kim",
         "bio": "@Hashed_official, formerly @awscloud, @carnegiemellon",
         "name": "Baek Kim",

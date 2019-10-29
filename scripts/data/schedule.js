@@ -45,11 +45,16 @@ const data = [
     ]
   },
   {
-    startTime: "10:45",
-    endTime: "12:00",
+    startTime: "11:30",
+    endTime: "13:00",
     topic: "Macro Case for Crypto",
-    duration: 75,
+    duration: 90,
     subTopics: [
+      {
+        topic: "Bitcoin as the Flag of Technology",
+        duration: 30,
+        speakers: ["balaji_srinivasan"]
+      },      
       {
         topic: "What Kinds of Assets are Cryptocurrencies: An Empirical Evaluation",
         duration: 20,
@@ -62,7 +67,7 @@ const data = [
       },
       {
         topic: "Macro Case for Bitcoin",
-        duration: 45,
+        duration: 30,
         speakers: ["vanessa_grellet", "nic_carter", "james_preswich", "will_wolf"]
       }
     ]

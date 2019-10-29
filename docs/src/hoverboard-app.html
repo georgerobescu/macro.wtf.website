@@ -30249,7 +30249,7 @@ const filtersReducer = (state = initialState.filters, action) => {
       (document, 'script', '../../../node_modules/autotrack/autotrack.js');
 
       ga('create', {
-        trackingId: 'UA-43643469-8',
+        trackingId: 'UA-43643469-9',
         cookieDomain: 'auto',
         cookiePath: '/',
         siteSpeedSampleRate: 10,
@@ -30540,7 +30540,7 @@ const filtersReducer = (state = initialState.filters, action) => {
           this.$.header.classList.remove('remove-shadow');
         }
 
-        const canonicalLink = `https://hoverboard-dev.firebaseapp.com/${page}${subroutePath}`;
+        const canonicalLink = `https://hoverboard-master.firebaseapp.com/${page}${subroutePath}`;
         document.querySelector('link[rel="canonical"]').setAttribute('href', canonicalLink);
       }
 
@@ -33832,7 +33832,7 @@ h=k[0],f,q;"auto"==g?g=t():v&&(g=t(parseInt(g)));var w;z&&b.useNativeClamp?(e.ov
           },
           _defaultImage: {
             type: String,
-            value: 'https://hoverboard-dev.firebaseapp.com/images/social-share.jpg',
+            value: 'https://hoverboard-master.firebaseapp.com/images/social-share.jpg',
           },
           _defaultLabel1: {
             type: String,
@@ -33869,7 +33869,7 @@ h=k[0],f,q;"auto"==g?g=t():v&&(g=t(parseInt(g)));var w;z&&b.useNativeClamp?(e.ov
           const updatedData2 = data2 || this._defaultData2;
           let updatedImage = this._defaultImage;
           if (image) {
-            updatedImage = image.startsWith('http') ? image : `https://hoverboard-dev.firebaseapp.com/${image}`;
+            updatedImage = image.startsWith('http') ? image : `https://hoverboard-master.firebaseapp.com/${image}`;
           }
           document.title = updatedTitle;
           document.querySelector('meta[name="description"]').setAttribute('content', updatedDescription);

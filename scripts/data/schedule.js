@@ -26,22 +26,22 @@ const data = [
         topic: "WTF is Stability?",
         duration: 15,
         speakers: ["haseeb_qureshi"]
-      },      
+      },
       {
         topic: "WTF is Capital: How to Fix Capitalism",
         duration: 15,
         speakers: ["joel_monegro"]
       },
       {
-        topic: "Does an Economy Actually Work with Rational Actors? \n - Rationality is Self-Defeating in Permissionless Systems? \n - Will programmability eventually result in incentive misalignment / conflict between those socializing platform secruity and the application layer? \n - Obscure Attacks on Protocols",
+        topic: "Does an Economy Actually Work with Rational Actors?",
         duration: 30,
         speakers: ["nic_carter", "charlie_noyes", "zaki_manian", "james_prestwich"]
-      },      
+      },
       {
         topic: "How Has Crypto Changed Economics?",
         duration: 30,
         speakers: ["don_tapscott"]
-      },   
+      },
     ]
   },
   {
@@ -54,7 +54,7 @@ const data = [
         topic: "Bitcoin as the Flag of Technology",
         duration: 30,
         speakers: ["balaji_srinivasan"]
-      },      
+      },
       {
         topic: "What Kinds of Assets are Cryptocurrencies: An Empirical Evaluation",
         duration: 20,
@@ -67,32 +67,33 @@ const data = [
       },
       {
         topic: "Macro Case for Bitcoin",
+        descriptions: [
+          "- Risk On or Risk Off asset?",
+          "- Gold vs. Bitcoin",
+          "- Is Digital Gold counter to Digital Money?",
+          "- Performance of Asset in Economic Downturn"
+        ],
         duration: 30,
-        speakers: ["vanessa_grellet", "nic_carter", "james_preswich", "will_wolf"]
+        speakers: ["vanessa_grellet", "nic_carter", "matt_dsouza", "tom_kineshanko", "will_wolf"]
       }
     ]
   },
   {
-    startTime: "12:00",
-    endTime: "12:30",
+    startTime: "13:00",
+    endTime: "13:30",
     topic: "Lunch Break",
     duration: 30,
     icon: "lunch"
   },
   {
-    startTime: "12:30",
-    endTime: "13:45",
+    startTime: "13:30",
+    endTime: "14:30",
     topic: "A Non-Strawmanned Intro to Fiat",
-    duration: 75,
+    duration: 60,
     subTopics: [
       {
-        topic: "A Brief History of Monetary Economics and Crypto",
-        duration: 20,
-        speakers: ["joel_monegro"]
-      },
-      {
         topic: "Like Uber, But For Slavery — The Power of Fiat Money",
-        duration: 20,
+        duration: 25,
         speakers: ["steve_waldman"]
       },
       {
@@ -108,24 +109,30 @@ const data = [
     ]
   },
   {
-    startTime: "13:45",
-    endTime: "15:30",
+    startTime: "14:30",
+    endTime: "16:30",
     topic: "Experimentations in Monetary Theory",
-    duration: 105,
+    duration: 120,
     subTopics: [
+      {
+        topic: "Overview of Monetary Policy across Each Crypto Economies",
+        duration: 15,
+        speakers: ["arjun_balaji"]
+      },
       {
         topic: "Algorithmic Monetary Policy",
         duration: 30,
         speakers: ["john_p_conley"]
       },
       {
-        topic: "Overview of Monetary Policy across Each Crypto Economies",
-        duration: 20,
-      },
-      {
         topic: "The Case for Negative Interest Rates",
         duration: 20,
         speakers: ["marek_olszewski"]
+      },
+      {
+        topic: "Fiscal & Monetary Policy Interaction in a Stablecoin Economy",
+        duration: 20,
+        speakers: ["nicolas_andreoulis"]
       },
       {
         topic: "Staking in Perpetuity: Explorations in Monetary Policy",
@@ -140,32 +147,37 @@ const data = [
     ]
   },
   {
-    startTime: "15:30",
-    endTime: "15:45",
-    topic: "Coffee Break",
-    duration: 15,
-    icon: "coffee-break",
-  },
-  {
-    startTime: "15:45",
-    endTime: "18:00",
+    startTime: "16:30",
+    endTime: "19:00",
     topic: "Reshaping International Political Economy",
-    duration: 135,
+    duration: 150,
     subTopics: [
       {
         topic: "Monetary Systems in an International Context",
-        duration: 45,
-        speakers: ["sunny_aggarwal", "zaki_manian", "steve_waldman", "john_p_conley"]
+        descriptions: [
+          "-Rodrik's Trilemma",
+          "-Rethinking the Euro",
+          "-On Libra",
+          "-Hayekian Denationalization of Money",
+          "-Inflection Points in Monetary Dominance"
+        ],
+        duration: 30,
+        speakers: ["sunny_aggarwal", "john_p_conley", "baek_kim", "zaki_manian", "steve_waldman"]
       },
       {
-        topic: "Petro:  A Failed Trojan Horse",
+        topic: "Petro: A Failed Trojan Horse",
         duration: 15,
         speakers: ["gabriel_jimenez"]
       },
       {
-        topic: "Global Cryptocurrency Adoption",
+        topic: "Cryptocurrency Adoption in Latin America",
+        descriptions: [
+          "- Bitcoin in Developing Countries",
+          "- Do people want USD or Bitcoin?",
+          "- Government takeover of Petro"
+        ],
         duration: 30,
-        speakers: ["joel_monegro", "charlie_smith", "gabriel_jimenez"]
+        speakers: ["qiao_wang", "jill_carlson", "navin_freeman", "gabriel_jimenez", "joel_monegro"]
       },
       {
         topic: "Central Bank Digital Currency",
@@ -173,9 +185,21 @@ const data = [
         speakers: ["dovey_wan"]
       },
       {
+        topic: "The Third Party Candidate",
+        duration: 15,
+        speakers: ["lily_liu"]
+      },
+      {
         topic: "Geopolitical Game Theory (Panel)",
+        descriptions: [
+          "- United States vs. China in battle for global hegemony",
+          "- Petrodollar",
+          "- How do capital controls affect crypto?",
+          "- Are we actually nation-state resistant?",
+          "- Crypto vs Nation States vs Corporations"
+        ],
         duration: 30,
-        speakers: ["sunny_aggarwal", "dovey_wan", "lasse_clausen"]
+        speakers: ["lily_liu", "lasse_clausen", "jae_kwon", "charlie_noyes", "dovey_wan"]
       },
       {
         topic: "WTF Initiative: Call for Research and Experimentations",
@@ -204,7 +228,6 @@ const scheduleData = [{
           items:  [
             {
               title: item.topic,
-              description: item.topic,
               dateReadable: "October 30",
               day: "2019-10-30",
               startTime: item.startTime,
@@ -224,7 +247,7 @@ const scheduleData = [{
           gridArea: `${index + 1} / 2 / ${index + 1} / 4`,
           items: item.subTopics.map((item) => ({
             title: item.topic,
-            description: item.topic,
+            descriptions: item.descriptions,
             dateReadable: "October 30",
             day: "2019-10-30",
             startTime: item.startTime,

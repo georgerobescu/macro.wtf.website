@@ -150,7 +150,11 @@
       <div class="session-header" layout horizontal justified>
         <div flex>
           <h3 class="session-title">[[session.title]]</h3>
-          <div class="session-description" hidden$="[[_hideSessionAbstract(session.shortDescription)]]">[[session.shortDescription]]</div>
+          <div class="session-descriptions" hidden$="[[!session.descriptions]]">
+            <template is="dom-repeat" items="[[session.descriptions]]" as="description">
+              <div>[[description]]</div>
+            </template>
+          </div>
         </div>
         <span class="language">[[slice(session.language, 2)]]</span>
       </div>

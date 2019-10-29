@@ -53,7 +53,7 @@ const data = [
       {
         topic: "Bitcoin as the Flag of Technology",
         duration: 30,
-        speakers: ["balaji_srinivasan"]
+        speakers: ["balaji_s_srinivasan"]
       },
       {
         topic: "What Kinds of Assets are Cryptocurrencies: An Empirical Evaluation",

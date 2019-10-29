@@ -591,7 +591,7 @@ const speakersData = [
               "name": "LinkedIn"
           }
       ],
-      "photoUrl": "https://pbs.twimg.com/profile_images/664936286512218112/vVSznk-9_400x400.jpg",
+      "photoUrl": "https://pbs.twimg.com/profile_images/733728436183793669/lTetRd89_400x400.jpg",
       "shortBio": "Research of polychain"
   },
   {

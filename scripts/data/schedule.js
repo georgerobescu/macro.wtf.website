@@ -34,6 +34,11 @@ const data = [
       },
       {
         topic: "Does an Economy Actually Work with Rational Actors?",
+        descriptions: [
+          "- Rationality is Self-Defeating in Permissionless Systems?",
+          "- Will programmability eventually result in incentive misalignment / conflict between those socializing platform secruity and the application layer?",
+          "- Obscure Attacks on Protocols"
+        ],        
         duration: 30,
         speakers: ["nic_carter", "charlie_noyes", "zaki_manian", "james_preswich"]
       },

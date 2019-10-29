@@ -1,6 +1,6 @@
-bower_components/
+/bower_components/
 dist/
-node_modules/
+/node_modules/
 build/
 functions/lib/
 .idea/

@@ -3,8 +3,8 @@
   "short_name": "Crosslink19",
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
-  "background_color": "#673AB7",
-  "theme_color": "#673AB7",
+  "background_color": "#2233ff",
+  "theme_color": "#2233ff",
   "icons": [
     {
       "src": "images/manifest/icon-48.png",

@@ -30342,7 +30342,7 @@ const filtersReducer = (state = initialState.filters, action) => {
             </a>
 
             <a class="bottom-drawer-link" href$="[[_getTicketUrl(tickets)]]" target="_blank" rel="noopener noreferrer" on-tap="closeDrawer" ga-on="click" ga-event-category="ticket button" ga-event-action="buy_click" layout="" horizontal="" center="">
-              <span>Buy Ticket</span>
+              <span>Register</span>
               <iron-icon icon="hoverboard:open-in-new"></iron-icon>
             </a>
           </div>
@@ -30511,7 +30511,7 @@ const filtersReducer = (state = initialState.filters, action) => {
           this.$.header.classList.remove('remove-shadow');
         }
 
-        const canonicalLink = `https://hoverboard-dev.firebaseapp.com/${page}${subroutePath}`;
+        const canonicalLink = `http://macro.wtf/${page}${subroutePath}`;
         document.querySelector('link[rel="canonical"]').setAttribute('href', canonicalLink);
       }
 
@@ -33326,7 +33326,7 @@ h=k[0],f,q;"auto"==g?g=t():v&&(g=t(parseInt(g)));var w;z&&b.useNativeClamp?(e.ov
 <script type="text/javascript">const partnersData = [
   {
     "order": 0,
-    "title": "Sponsor Organizations",
+    "title": "Socrates",
     "id": "sponsor_org",
     "items": [
       {
@@ -33335,7 +33335,14 @@ h=k[0],f,q;"auto"==g?g=t():v&&(g=t(parseInt(g)));var w;z&&b.useNativeClamp?(e.ov
         "order": 0,
         "url": "https://www.paradigm.xyz/",
         "id": "paradigm"
-      },
+      }
+    ]
+  },  
+  {
+    "order": 1,
+    "title": "Plato",
+    "id": "sponsor_org",
+    "items": [
       {
         "logoUrl": "../images/partners/bxf_crypto.png",
         "name": "BXF Crypto",
@@ -33348,7 +33355,14 @@ h=k[0],f,q;"auto"==g?g=t():v&&(g=t(parseInt(g)));var w;z&&b.useNativeClamp?(e.ov
         "order": 2,
         "url": "https://www.hashkey.com/",
         "id": "hashkey_captial"
-      },
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "title": "Plato",
+    "id": "sponsor_org",
+    "items": [
       {
         "logoUrl": "../images/partners/nervos.png",
         "name": "Nervos",
@@ -33364,7 +33378,7 @@ h=k[0],f,q;"auto"==g?g=t():v&&(g=t(parseInt(g)));var w;z&&b.useNativeClamp?(e.ov
         "id": "celo"
       }
     ]
-  }
+  }  
 ];
 </script>
 
@@ -33848,7 +33862,7 @@ h=k[0],f,q;"auto"==g?g=t():v&&(g=t(parseInt(g)));var w;z&&b.useNativeClamp?(e.ov
           },
           _defaultImage: {
             type: String,
-            value: 'https://hoverboard-dev.firebaseapp.com/images/social-share.jpg',
+            value: 'http://macro.wtf/images/social-share.jpg',
           },
           _defaultLabel1: {
             type: String,
@@ -33885,7 +33899,7 @@ h=k[0],f,q;"auto"==g?g=t():v&&(g=t(parseInt(g)));var w;z&&b.useNativeClamp?(e.ov
           const updatedData2 = data2 || this._defaultData2;
           let updatedImage = this._defaultImage;
           if (image) {
-            updatedImage = image.startsWith('http') ? image : `https://hoverboard-dev.firebaseapp.com/${image}`;
+            updatedImage = image.startsWith('http') ? image : `http://macro.wtf/${image}`;
           }
           document.title = updatedTitle;
           document.querySelector('meta[name="description"]').setAttribute('content', updatedDescription);

@@ -5,8 +5,7 @@
   "scripts": {
     "gulp": "gulp",
     "bower": "bower",
-    "build": "gulp",
-    "build:prod": "cross-env BUILD_ENV=production gulp",
+    "build": "cross-env BUILD_ENV=production gulp && git checkout docs/CNAME",
     "predeploy": "cd ./functions && npm i",
     "deploy": "gulp deploy",
     "deploy:prod": "cross-env BUILD_ENV=production gulp deploy",

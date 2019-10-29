@@ -25,7 +25,7 @@ const uglify = composer(uglifyes, console);
 const config = {
   polymerJsonPath: './polymer.json',
   build: {
-    rootDirectory: 'build',
+    rootDirectory: 'docs',
   },
   swPrecacheConfigPath: './sw-precache-config.js',
   templateData: [

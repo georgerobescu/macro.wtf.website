@@ -34,8 +34,13 @@ const data = [
       },
       {
         topic: "Does an Economy Actually Work with Rational Actors?",
+        descriptions: [
+          "- Rationality is Self-Defeating in Permissionless Systems?",
+          "- Will programmability eventually result in incentive misalignment / conflict between those socializing platform secruity and the application layer?",
+          "- Obscure Attacks on Protocols"
+        ],        
         duration: 30,
-        speakers: ["nic_carter", "charlie_noyes", "zaki_manian", "james_prestwich"]
+        speakers: ["nic_carter", "charlie_noyes", "zaki_manian", "james_preswich"]
       },
       {
         topic: "How Has Crypto Changed Economics?",
@@ -53,7 +58,7 @@ const data = [
       {
         topic: "Bitcoin as the Flag of Technology",
         duration: 30,
-        speakers: ["balaji_srinivasan"]
+        speakers: ["balaji_s_srinivasan"]
       },
       {
         topic: "What Kinds of Assets are Cryptocurrencies: An Empirical Evaluation",
@@ -155,11 +160,11 @@ const data = [
       {
         topic: "Monetary Systems in an International Context",
         descriptions: [
-          "-Rodrik's Trilemma",
-          "-Rethinking the Euro",
-          "-On Libra",
-          "-Hayekian Denationalization of Money",
-          "-Inflection Points in Monetary Dominance"
+          "- Rodrik's Trilemma",
+          "- Rethinking the Euro",
+          "- On Libra",
+          "- Hayekian Denationalization of Money",
+          "- Inflection Points in Monetary Dominance"
         ],
         duration: 30,
         speakers: ["sunny_aggarwal", "john_p_conley", "baek_kim", "zaki_manian", "steve_waldman"]

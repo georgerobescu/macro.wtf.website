@@ -169,37 +169,11 @@ const partnersActions = {
   },
   fetchPartners: () => (dispatch) => {
     dispatch({
-      type: FETCH_PARTNERS,
+      type: FETCH_PARTNERS_SUCCESS,
+      payload: {
+        list: partnersData,
+      },
     });
-
-    firebase.firestore()
-        .collection('partners')
-        .orderBy('order', 'asc')
-        .get()
-        .then((snaps) => Promise.all(
-            snaps.docs.map((snap) => Promise.all([
-              snap.data(),
-              snap.id,
-              _getPartnerItems(snap.id),
-            ]))
-        ))
-        .then((groups) => groups.map(([group, id, items]) => {
-          return Object.assign({}, group, { id, items });
-        }))
-        .then((list) => {
-          dispatch({
-            type: FETCH_PARTNERS_SUCCESS,
-            payload: {
-              list,
-            },
-          });
-        })
-        .catch((error) => {
-          dispatch({
-            type: FETCH_PARTNERS_FAILURE,
-            payload: { error },
-          });
-        });
   },
 };
 

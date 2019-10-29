@@ -11,7 +11,7 @@
   "emailUs": "Email us",
   "partnershipResources": "合作資源",
   "eventResources": "活動資源",
-  "buyTicket": "Buy Ticket",
+  "buyTicket": "Register",
   "signIn": "登入",
   "signOut": "登出",
   "viewHighlights": "View Highlights",
@@ -46,7 +46,7 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "Macro.WTF | Putting Crypto in the Broader Macro Context",
     "callToAction": {
       "featuredSessions": {
         "description": "Cryptocurrencies don't exist in isolation, but rather in the larger world of macroeconomic trends, geopolitical forces, and sociological reality. In this event, we'll examine where crypto lies in the history of monetary theory, what we can learn from macro studies, and how we will influence the macro world.",
@@ -54,7 +54,7 @@
         "link": "https://www.bilibili.com/video/av70493085"
       },
       "howItWas": {
-        "description": "About WTF | The Power of Asking. A modern resurrection of the Greek Pnyx (/nɪks/): a supportive space for open, inclusive, informed, and thoughtful exchanges of ideas, for the practice of the ancient art of asking the right questions to move beyond hype and arrive at knowledge.",
+        "description": "WTF | The Power of Asking. A modern resurrection of the Greek Pnyx (/nɪks/): a supportive space for open, inclusive, informed, and thoughtful exchanges of ideas, for the practice of the ancient art of asking the right questions to move beyond hype and arrive at knowledge.",
         "label": "See how it was in Osaka",
         "youtubeId": "9RtSod8EXn4"
       }

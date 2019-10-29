@@ -35,7 +35,7 @@ const partnersData = [
   },
   {
     "order": 2,
-    "title": "Plato",
+    "title": "Aristotle",
     "id": "sponsor_org",
     "items": [
       {

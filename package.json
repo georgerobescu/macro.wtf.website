@@ -5,7 +5,7 @@
   "scripts": {
     "gulp": "gulp",
     "bower": "bower",
-    "build": "gulp && git checkout docs/CNAME",
+    "build": "gulp && git checkout docs/CNAME docs/.nojekyll",
     "deploy": "npm run build && git add docs && git commit -m deploy && git push",
     "firestore:init": "firebase firestore:delete -r --all-collections -y && firebase functions:config:set schedule.enabled=true && firebase deploy --except hosting && babel-node ./internals/import-default-data",
     "firestore:copy": "babel-node ./internals/firestore-copy-data",

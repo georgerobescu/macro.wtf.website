@@ -609,4 +609,4 @@ const speakersData = [
       "photoUrl": "https://pbs.twimg.com/profile_images/869563205303119872/RvlT4V7W_400x400.jpg",
       "shortBio": "Head of Research @tendermint_team"
   }
-].sort((x, y) => (x.id > y.id) - (x.id < y.id));
+];

@@ -164,7 +164,7 @@ const speakersActions = {
     dispatch({
       type: FETCH_SPEAKERS_SUCCESS,
       payload: {
-        obj: speakersData.reduce((acc, curr) =>
+        obj: speakersData.sort((x, y) => (x.id > y.id) - (x.id < y.id)).reduce((acc, curr) =>
           Object.assign({}, acc, { [curr.id]: curr }), {}),
         list: speakersData,
       },

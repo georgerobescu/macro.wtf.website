@@ -155,11 +155,11 @@ const data = [
       {
         topic: "Monetary Systems in an International Context",
         descriptions: [
-          "-Rodrik's Trilemma",
-          "-Rethinking the Euro",
-          "-On Libra",
-          "-Hayekian Denationalization of Money",
-          "-Inflection Points in Monetary Dominance"
+          "- Rodrik's Trilemma",
+          "- Rethinking the Euro",
+          "- On Libra",
+          "- Hayekian Denationalization of Money",
+          "- Inflection Points in Monetary Dominance"
         ],
         duration: 30,
         speakers: ["sunny_aggarwal", "john_p_conley", "baek_kim", "zaki_manian", "steve_waldman"]

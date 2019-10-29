@@ -108,7 +108,6 @@ const ticketsActions = {
     dispatch({
       type: FETCH_TICKETS,
     });
-
   },
 };
 
@@ -127,15 +126,11 @@ const partnersActions = {
       fullName: data.firstFieldValue || '',
       companyName: data.secondFieldValue || '',
     };
-
-
   },
   fetchPartners: () => (dispatch) => {
     dispatch({
       type: FETCH_PARTNERS,
     });
-
-
   },
 };
 
@@ -144,8 +139,6 @@ const videosActions = {
     dispatch({
       type: FETCH_VIDEOS,
     });
-
-
   },
 };
 
@@ -154,8 +147,6 @@ const blogActions = {
     dispatch({
       type: FETCH_BLOG_LIST,
     });
-
-
   },
 };
 
@@ -177,8 +168,6 @@ const previousSpeakersActions = {
     dispatch({
       type: FETCH_PREVIOUS_SPEAKERS,
     });
-
-
   },
 };
 
@@ -205,7 +194,6 @@ const sessionsActions = {
       type: SET_USER_FEATURED_SESSIONS,
       payload: { userId, featuredSessions },
     });
-
   },
 };
 
@@ -223,7 +211,6 @@ const galleryActions = {
     dispatch({
       type: FETCH_GALLERY,
     });
-
   },
 };
 
@@ -258,8 +245,6 @@ const userActions = {
 const subscribeActions = {
   subscribe: (data) => (dispatch) => {
     const id = data.email.replace(/[^\w\s]/gi, '');
-
-
   },
   resetSubscribed: () => {
     store.dispatch({

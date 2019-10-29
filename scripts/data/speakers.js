@@ -1,5 +1,20 @@
 const speakersData = [
     {
+        "id": "baek_kim",
+        "bio": "@Hashed_official, formerly @awscloud, @carnegiemellon",
+        "name": "Baek Kim",
+        "company": "Hashed",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/baekkyoumkim",
+                "name": "Twitter"
+            }
+        ],
+        "photoUrl": "https://pbs.twimg.com/profile_images/1103054165406707712/UDjocHDC_400x400.png",
+        "shortBio": "Hashed"
+    },
+    {
         "id": "jae_kwon",
         "bio": "Cosmos is here.  BFT proof of stake with Tendermint, Internet of Blockchains.  How do we solve climate change?",
         "name": "Jae Kwon",

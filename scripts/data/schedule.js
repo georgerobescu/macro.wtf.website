@@ -8,30 +8,40 @@ const data = [
   },
   {
     startTime: "09:30",
-    endTime: "10:45",
+    endTime: "11:30",
     topic: "Macro and Cryptoeconomics",
-    duration: 75,
+    duration: 120,
     subTopics: [
       {
         topic: "Grand Unifying Theory of Cryptoeconomics",
-        duration: 20,
+        duration: 15,
         speakers: ["shruti_appiah"]
       },
       {
         topic: "Balancing Order and Chaos: Universality in Cryptoeconomics",
-        duration: 20,
+        duration: 15,
         speakers: ["tarun_chitra"]
-      },
-      {
-        topic: "WTF is Capital",
-        duration: 20,
-        speakers: ["joel_monegro"]
       },
       {
         topic: "WTF is Stability?",
         duration: 15,
         speakers: ["haseeb_qureshi"]
-      }
+      },      
+      {
+        topic: "WTF is Capital: How to Fix Capitalism",
+        duration: 15,
+        speakers: ["joel_monegro"]
+      },
+      {
+        topic: "Does an Economy Actually Work with Rational Actors? \n - Rationality is Self-Defeating in Permissionless Systems? \n - Will programmability eventually result in incentive misalignment / conflict between those socializing platform secruity and the application layer? \n - Obscure Attacks on Protocols",
+        duration: 30,
+        speakers: ["nic_carter", "charlie_noyes", "zaki_manian", "james_prestwich"]
+      },      
+      {
+        topic: "How Has Crypto Changed Economics?",
+        duration: 30,
+        speakers: ["don_tapscott"]
+      },   
     ]
   },
   {

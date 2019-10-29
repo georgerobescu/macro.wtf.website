@@ -35,7 +35,7 @@ const data = [
       {
         topic: "Does an Economy Actually Work with Rational Actors?",
         duration: 30,
-        speakers: ["nic_carter", "charlie_noyes", "zaki_manian", "james_prestwich"]
+        speakers: ["nic_carter", "charlie_noyes", "zaki_manian", "james_preswich"]
       },
       {
         topic: "How Has Crypto Changed Economics?",

@@ -118,6 +118,13 @@
           console.log('Firebase App is ready!');
         });
 
+(function(){
+    var redirect = sessionStorage.redirect;
+    delete sessionStorage.redirect;
+    if (redirect && redirect != location.href) {
+        history.replaceState(null, null, redirect);
+    }
+})();
     </script>
     <script>
       // First Input Delay polyfill https://github.com/GoogleChromeLabs/first-input-delay
